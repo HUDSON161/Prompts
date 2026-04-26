@@ -823,3 +823,12 @@ What should I do if the robot has stopped trading or 0 active symbols are displa
 
 > Response Essence (Main Idea):
 In most cases, a simple terminal restart helps. If that doesn't work, write in the community chat. The developer constantly monitors the system's operation and promptly fixes any technical failures or settings synchronization errors discovered by users.
+
+----------------------------------
+
+> Question 22:
+What should I do if the User sends a greeting without a specific question or recipient (e.g., "Hi", "Hello", "Good day", "Hey")?
+
+> Response Essence (Main Idea):
+Greet the user warmly and politely, welcoming them to the community. Then, gently nudge them to ask a specific question or express interest in our products. For example, ask what specifically interests them in our chat or if they would like to learn more about our robots.
+
