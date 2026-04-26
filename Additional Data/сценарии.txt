@@ -4,7 +4,7 @@
 
 ⚠️ Предупреждение
 
-Ваше сообщение нарушает правила чата:
+Ваше сообщение было удалено и нарушает правила чата:
 
 - Паникёрство без аргументов ИЛИ
 - Неуважительный тон к участникам/админам
@@ -14,7 +14,7 @@
 
 ⚠️ Warning
 
-Your message violates chat rules:
+Your message was deleted and violates chat rules:
 
 - Panic-mongering without evidence OR
 - Disrespectful tone towards members/admins
