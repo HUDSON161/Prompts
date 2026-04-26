@@ -650,3 +650,76 @@ Top Variation Accuracy - Inflection point search accuracy (applies only to linea
 Relative Lengthening Left - Relative leftward extension of the line (0.0 = no extension, 1.0 = double length).
 Relative Lengthening Right - Relative rightward extension of the line.
 Accuracy - Minimum approximation accuracy (higher = stricter filter).
+
+
+
+DATABASE OF IDEAS AND PATTERNS FOR PROMOTIONAL POSTS (PROMOTION ETHICS)
+====================================================================
+
+> IMPORTANT NOTE:
+This database of ideas is not advisory in nature and is not mandatory for execution. It merely suggests additional options and concepts that can be used for creativity and expanding the content plan.
+
+--- STRATEGY: PROBLEM SOLVING AND CARE ---
+
+> Pattern 1: Technical Mini-Help (Domain and Connection)
+Idea: Explain why the robot might be "silent" and how to fix it in 10 seconds.
+Goal: Anxiety reduction + education + unobtrusive reminder of ::: DYNAMIC ::: mode.
+Hook: "Is your robot silent? Check one setting..."
+Implementation: Mention adding the domain ::: neontrade.algowealthx.com :::. If okay but more pairs are desired — provide a link to ::: Neon Trade EA MT5 ::: as the most advanced solution.
+
+> Pattern 2: Broker Choice and "Hidden Traps" of Symbols
+Idea: Talk about prefixes and postfixes (EURUSD.m, GBPUSD!).
+Goal: Show expertise + promote affiliate links.
+Hook: "Does your broker add symbols to pair names? Not a problem."
+Implementation: Explain the ::: Instrument Naming Adaptation ::: block. At the end of the post, suggest a list of verified brokers where everything is configured instantly (provide a list of affiliate links to RoboForex, Tickmill, etc.).
+
+> Pattern 3: "Outdated instruments" Issue
+Idea: Reframe the fear of the outdated instruments message into a positive.
+Goal: Show that the system is alive and updating + engagement.
+Hook: "See an 'Outdated' label? Congratulations, the system is working!"
+Implementation: Explain that the developer has uploaded fresh ML training data. This is a sign of active support for ::: Neon Trade :::.
+
+--- STRATEGY: PHILOSOPHY AND PSYCHOLOGY (ENGAGEMENT) ---
+
+> Pattern 4: Why we don't use Stop Loss?
+Idea: Explain a controversial point through the prism of mathematics.
+Goal: Engagement (discussion) + promotion of portfolio philosophy.
+Hook: "Stop Loss — is it your deposit's friend or foe?"
+Implementation: Talk about market noise and how deep diversification in ::: Neon Trade ::: replaces classic stops. The post should make the reader want to ask for details in the chat.
+
+> Pattern 5: The Power of 28 Pairs (The Magic of Diversification)
+Idea: Visualization of how one pair pulls another.
+Goal: Sell the "Portfolio" idea + link to products.
+Hook: "Why trade one pair when you can capture the whole market?"
+Implementation: Talk about how ::: Currency Trade ::: distributes risks. If the product link is removed, the post loses its meaning as a ready-made solution for diversification.
+
+--- STRATEGY: BENEFIT AND ACCESSIBILITY ---
+
+> Pattern 6: Free Entry into the World of ML Trading
+Idea: For those who are afraid to buy immediately or don't have a large sum.
+Goal: Registrations via affiliate links.
+Hook: "How to run a professional ML robot without buying a license?"
+Implementation: Detail the conditions of the ::: FREE VERSION ::: via RoboForex/ByBit. Emphasis on it being a path to testing the system on real money without software costs.
+
+> Pattern 7: MT4 vs MT5 Comparison (Soft Promotion)
+Idea: The eternal trader's debate.
+Goal: Promote corresponding product versions.
+Hook: "Good old MT4 or fast MT5? We chose both."
+Implementation: Point out the benefits of testing on MT5 (speed) and the stability of MT4. Provide links to both versions of ::: Neon Trade :::.
+
+--- STRATEGY: REASONABLE RISK AND CREATIVITY ---
+
+> Pattern 8: Account Growth or Conservative?
+Idea: Poll or comparison of approaches.
+Goal: Increase activity (comments) + assistance in setup.
+Hook: "$300 — is it too little or enough to start?"
+Implementation: Describe ::: Auto Lot ::: capabilities and how it adapts. Encourage users to share their goals so that admins can help with sets.
+
+--- FORMATTING TIPS (FOR AI) ---
+
+1. Short sentences. Minimum fluff.
+2. Use ::: frames ::: to highlight keywords.
+3. Mandatory presence of "care": "We checked...", "For your convenience...", "So you don't waste time...".
+4. The link must be built into the context: not "buy here [link]", but "specifically for such tasks we created [product + link]".
+5. If there was a live question in the chat — use it as a content hook: "Today in the chat someone asked about VPS... answering for everyone."
+
