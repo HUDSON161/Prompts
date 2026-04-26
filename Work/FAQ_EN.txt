@@ -1,0 +1,170 @@
+FAQ SECTION
+===========
+
+--- General questions on product operation ---
+
+> Question 1:
+What is the minimum deposit required to run ::: Neon Trade :::?
+
+> Response Essence (Main Idea):
+For comfortable operation and risk compliance, we recommend starting with a deposit of at least $300. This allowing ::: Neon Trade ::: to effectively distribute trade volumes and maintain portfolio stability. You can use any account type that supports hedging.
+
+----------------------------------
+
+> Question 2:
+What is the minimum deposit for ::: Currency Trade ::: or ::: Crypto Trade :::?
+
+> Response Essence (Main Idea):
+For these specialized sectors, the minimum recommended deposit is $100. The robot automatically adapts the lot size to your balance, striving to maintain target returns with minimal drawdowns.
+
+----------------------------------
+
+> Question 3:
+How do I correctly add the domain for the robot to work in the terminal?
+
+> Response Essence (Main Idea):
+You need to add the address ::: neontrade.algowealthx.com ::: to the list of allowed URLs. Go to Tools -> Options -> Expert Advisors -> Allow WebRequest for the following URLs and add the specified domain. This is critical for settings synchronization in ::: DYNAMIC ::: mode.
+
+----------------------------------
+
+> Question 4:
+Where should I place the personal key file (Neon Trade Key.txt)?
+
+> Response Essence (Main Idea):
+The key file must be placed in the common data folder of all terminals at the path: ::: %APPDATA%\MetaQuotes\Terminal\Common\Files :::. After that, all launched versions of the robot on this computer will see the key and activate automatically.
+
+----------------------------------
+
+> Question 5:
+What should I do if the broker uses prefixes or postfixes in pair names (e.g., EURUSD!)?
+
+> Response Essence (Main Idea):
+The advisor settings provide an ::: Instrument Naming Adaptation ::: block. Specify your symbol in the ::: Symbol Prefix ::: or ::: Symbol Postfix ::: fields. For example, if there's an exclamation mark at the end of the name, specify it in the postfix. Without this setting, the robot won't be able to find instruments and open trades.
+
+----------------------------------
+
+> Question 6:
+How does ::: Auto Lot ::: work when trading multiple pairs simultaneously?
+
+> Response Essence (Main Idea):
+ ::: Auto Lot ::: automatically distributes the total portfolio risk among all active pairs and timeframes. It accounts for the total number of instruments and divides the lot so that the total load on the deposit doesn't exceed the specified parameters. For correct operation on live accounts, it's recommended to always keep this setting enabled.
+
+----------------------------------
+
+> Question 7:
+How do I correctly run multiple copies of the robot on one account?
+
+> Response Essence (Main Idea):
+Use the parameters at the end of the settings list: ::: EA Index ::: (a unique number for each copy: 0, 1, 2...) and ::: EA Count ::: (total number of launched copies). This allows robots to correctly separate magic numbers and accurately calculate risks in ::: Auto Lot ::: mode.
+
+----------------------------------
+
+> Question 8:
+What is the best way to test the advisor in the Strategy Tester?
+
+> Response Essence (Main Idea):
+For ::: MetaTrader 5 :::, use the ::: OHLC on M1 ::: mode — it provides maximum speed while maintaining accuracy. For ::: MetaTrader 4 :::, choose the ::: Open prices only ::: mode. Since the robot works on M1 bars, these modes give identical results to real ticks but work significantly faster.
+
+----------------------------------
+
+> Question 9:
+Is it safe to use ::: MARTINGALE ::: mode?
+
+> Response Essence (Main Idea):
+When using wide diversification across a portfolio (as in our products), ::: Martingale ::: becomes much safer as risks are distributed. However, we recommend first conducting tests in ::: SIMPLE_LOT ::: mode to evaluate the linearity of the signal's return, and only then enabling lot increase.
+
+----------------------------------
+
+> Question 10:
+How can I get the free version of ::: Neon Trade :::?
+
+> Response Essence (Main Idea):
+The free version is available for live accounts opened via our partner links with brokers like ::: RoboForex :::, ::: ByBit :::, ::: Tickmill :::, etc. A full list of links is available in the product descriptions. After funding the account, the robot will start working automatically without keys or activations.
+
+----------------------------------
+
+> Question 11:
+What should I do if the message ::: Outdated instruments ::: appears in the interface?
+
+> Response Essence (Main Idea):
+This is an information message indicating that some settings are outdated and no new trades will be opened based on them. You don't need to do anything: the robot will automatically delete the outdated files after a few days and add new current optimizations during the next synchronization.
+
+----------------------------------
+
+> Question 12:
+Is a refund or replacement of the robot possible?
+
+> Response Essence (Main Idea):
+Questions regarding refunds, loss compensation, or replacement of software products are resolved on an individual basis. Write in the community chat and call for ::: moderators ::: or ::: administrators :::. We will review your situation and try to find the optimal solution to maintain your loyalty.
+
+----------------------------------
+
+> Question 13:
+What is the core philosophy of your trading systems?
+
+> Response Essence (Main Idea):
+The main idea is to combine powerful machine learning with proven diversification techniques. All complex computations are offloaded to our servers to free the user's terminal solely for trading operations. This allows us to manually select the best settings and update them dynamically to adapt to any market phase.
+
+----------------------------------
+
+> Question 14:
+Why do you place such emphasis on diversification across many pairs?
+
+> Response Essence (Main Idea):
+Diversification is the only reliable way to smooth the equity curve and reduce drawdowns without losing potential profit. By trading dozens of pairs simultaneously, we eliminate situations where an error on a single instrument critically affects the entire deposit. A portfolio approach makes trading more stable over long distances.
+
+----------------------------------
+
+> Question 15:
+How can I most effectively get help in the community chat?
+
+> Response Essence (Main Idea):
+We are always ready to help, but we need details. Describe the problem, specify the product version, and be sure to attach ::: screenshots ::: of the settings and the control panel. This will help us quickly localize the problem and provide a clear recommendation instead of guessing the causes.
+
+----------------------------------
+
+> Question 16:
+How should I view temporary drawdowns and losing trades?
+
+> Response Essence (Main Idea):
+Trading is a game of probabilities. A single losing trade doesn't matter; what matters is the overall result over distance. We recommend staying calm, monitoring the relevance of settings, and trusting the diversification algorithms. Drawdowns are a natural part of the process, built into the system's mathematical model.
+
+----------------------------------
+
+> Question 17:
+What is the advantage of manual settings selection over fully automatic learning?
+
+> Response Essence (Main Idea):
+The machine finds patterns, but the human (developer) evaluates their quality and resilience to market anomalies. We personally analyze the learning results and upload only those configurations that show real potential. This adds a level of control unavailable to ordinary "black boxes".
+
+----------------------------------
+
+> Question 18:
+Why do you not recommend using classic ::: Stop Losses ::: in your systems?
+
+> Response Essence (Main Idea):
+Stop-losses often degrade trading quality by knocking out positions on market noise. In our paradigm, defense functions are performed by deep diversification and portfolio hedging. Instead of trying to limit the loss on one trade, we strive for the superiority of the system's mathematical expectation over distance.
+
+----------------------------------
+
+> Question 19:
+What should I do if I don't understand how to set risks for my goals?
+
+> Response Essence (Main Idea):
+Do not experiment on your own if you're not sure of your actions. Ask in the chat, and the ::: moderators ::: or ::: developer ::: will help you. We'll explain how the risk scale works and how to configure the portfolio specifically for your balance, whether for rapid growth or conservative investing.
+
+----------------------------------
+
+> Question 20:
+Does the robot support ::: FIFO ::: (First In First Out) rules applicable in the US?
+
+> Response Essence (Main Idea):
+Working under ::: FIFO ::: rules is possible in certain modes, but it imposes serious limitations on the functionality of portfolio strategies. We recommend choosing brokers in jurisdictions without these restrictions if possible. If you're from the US and planning a purchase, we can individually discuss expanding the logic for your requirements.
+
+----------------------------------
+
+> Question 21:
+What should I do if the robot has stopped trading or 0 active symbols are displayed on the panel?
+
+> Response Essence (Main Idea):
+In most cases, a simple terminal restart helps. If that doesn't work, write in the community chat. The developer constantly monitors the system's operation and promptly fixes any technical failures or settings synchronization errors discovered by users.
