@@ -23,20 +23,29 @@ Please keep messages constructive and fact-based.
 
 
 
+
 ОБЫЧНОЕ УДАЛЕНИЕ СООБЩЕНИЯ
+STANDARD MESSAGE DELETION
 ================================================================================
 
 --- 1 ---
 > Действие:
 удаление одиночных картинок без подписи
 
+> Action:
+deletion of single images without a caption
+
 --- 2 ---
 > Действие:
 удаление фотоальбомов без подписи
 
+> Action:
+deletion of photo albums without a caption
+
 
 
 УДАЛЕНИЕ СООБЩЕНИЯ + ПРЕДУПРЕЖДЕНИЕ
+MESSAGE DELETION + WARNING
 ================================================================================
 
 --- 3 ---
@@ -47,9 +56,17 @@ a) катастрофические прогнозы или призывы к п
 
 b) неуважительный тон, грубость, сарказм или насмешки в адрес ::: Участников ::: чата или ::: Администраторов ::: чата, в том числе прямые оскорбления
 
+> Conditions:
+If the ::: User's ::: message implements something from this list:
+
+a) catastrophic forecasts or calls for panic actions ("all is lost", "dump everything", "market collapse") without facts or arguments
+
+b) disrespectful tone, rudeness, sarcasm, or mockery directed at chat ::: Members ::: or chat ::: Administrators :::, including direct insults
+
 
 
 МГНОВЕННОЕ УДАЛЕНИЕ + БАН УЧАСТНИКА
+INSTANT DELETION + USER BAN
 ================================================================================
 
 --- 4 ---
@@ -66,10 +83,27 @@ e) хвастовство что прошел испытание в проп-ф�
 
 e) хвастовство результатами стороннего решения, превозношение или идеализирование стороннего продукта, когда понятно, что сообщение несет в себе цель выловить в нашем чате простофилю, которого можно скамануть на деньги или заставить купить стороннее решение либо вызвать интерес к нему, и впоследствии увести переписку в личный диалог или переманить ::: Клиента ::: к себе в другой чат. В целом это халявное использование моей аудитории с целью личной наживы или расширения собственной аудитории за счет моей.
 
+> Conditions (Violations):
+a) ::: Phishing :::: requests for private keys, passwords, wallet data, links to fake websites, or fake "support/verification"
+
+b) calls to download malicious files (.exe, .scr, .bat, password-protected archives) or files labeled "robot", "key", "leak"
+
+c) impersonating an ::: Administrator :::, ::: Moderator :::, ::: Technical Support :::, or official representative
+
+d) direct calls to transfer money, offers of "investments at %", "trust management", or "secret access to the terminal"
+
+e) boasting about passing a prop-firm challenge (Darwinex, ForexChief, FTMO, etc.) using a third-party robot or expert advisor, or any other third-party solution
+
+e) boasting about the results of a third-party solution, praising or idealizing a third-party product, when it is clear that the message aims to find a simpleton in our chat who can be scammed out of money or forced to buy a third-party solution or generate interest in it, and subsequently take the correspondence to a private dialogue or lure the ::: Client ::: to another chat. Overall, this is the free use of my audience for personal gain or expanding one's own audience at the expense of mine.
+
 ::: СПИСОК ИСКЛЮЧЕНИЙ :::
+::: LIST OF EXCEPTIONS :::
 
 > Описание:
 Эти наши продукты можно рекламировать или превозносить, так как это нам полезно. А также можно хвастаться результатами прохождения испытаний в проп-фирмах с помощью наших продуктов. Представлены в ::: MT4 ::: и ::: MT5 ::: версиях:
+
+> Description:
+These products of ours can be advertised or praised as it is beneficial to us. It is also allowed to boast about the results of passing prop-firm challenges using our products. Available in ::: MT4 ::: and ::: MT5 ::: versions:
 
 :::::::: Neon Trade ::::::::
 :::::::: Neon Shadow ::::::::
@@ -84,30 +118,27 @@ e) хвастовство результатами стороннего реше
 
 
 НЕ ДЕЛАЕМ НИЧЕГО
+DO NOTHING
 ================================================================================
 
 --- 5 ---
 > Условие:
-::: Пользователь ::: хочет купить или арендовать один или несколько наших продуктов на ::: mql5.com :::, или купить ключ от ::: private ::: версии ::: Neon Trade :::::
+::: Пользователь ::: отправил сообщение которое не относится ни к одному из других сценариев (когда непонятно какой сценарий применить).
 
-> Наши продукты (представлены в ::: MT4 ::: и ::: MT5 ::: версиях):
-:::::::: Neon Trade ::::::::
-:::::::: Neon Shadow ::::::::
-:::::::: Neon Trade EA ::::::::
-:::::::: Neon Shadow EA ::::::::
-:::::::: Currency Trade ::::::::
-:::::::: Crypto Trade ::::::::
-:::::::: Stocks Trade ::::::::
-:::::::: Channel Searcher ::::::::
-:::::::: Spline Searcher ::::::::
+> Condition:
+The ::: User ::: sent a message that does not belong to any other scenarios (when it is unclear which scenario to apply).
 
 
 
 --- 6 ---
 > Условие:
-::: Пользователь ::: недоволен одним или несколькими нашими продуктами, потерял деньги, хочет возврат или понятно, что требуется личное вмешательство ::: Продавца ::: или ::: Модератора :::, для пресечения возможного конфликта или нахождения компромисса. То есть понятно, что экстренная ситуация и желательно вмешательство компетентного человека.
+::: Пользователь ::: хочет купить или арендовать один или несколько наших продуктов на ::: mql5.com :::, или купить ключ от ::: private ::: версии ::: Neon Trade ::::
 
-> Наши Продукты (представлены в ::: MT4 ::: и ::: MT5 ::: версиях):
+> Condition:
+The ::: User ::: wants to buy or rent one or more of our products on ::: mql5.com :::, or buy a key for the ::: private ::: version of ::: Neon Trade ::::
+
+> Наши продукты (представлены в ::: MT4 ::: и ::: MT5 ::: версиях):
+> Our Products (available in ::: MT4 ::: and ::: MT5 ::: versions):
 :::::::: Neon Trade ::::::::
 :::::::: Neon Shadow ::::::::
 :::::::: Neon Trade EA ::::::::
@@ -118,11 +149,17 @@ e) хвастовство результатами стороннего реше
 :::::::: Channel Searcher ::::::::
 :::::::: Spline Searcher ::::::::
 
+
+
 --- 7 ---
 > Условие:
-::: Пользователь ::: явно требует общения с ::: Разработчиком ::: продукта.
+::: Пользователь ::: недоволен одним или несколькими нашими продуктами, потерял деньги, хочет возврат или понятно, что требуется личное вмешательство ::: Продавца ::: или ::: Модератора :::, для пресечения возможного конфликта или нахождения компромисса. То есть понятно, что экстренная ситуация и желательно вмешательство компетентного человека.
+
+> Condition:
+The ::: User ::: is dissatisfied with one or more of our products, lost money, wants a refund, or it is clear that personal intervention by the ::: Seller ::: or ::: Moderator ::: is required to prevent a potential conflict or find a compromise. That is, it is clear that there is an emergency and intervention by a competent person is desirable.
 
 > Наши Продукты (представлены в ::: MT4 ::: и ::: MT5 ::: версиях):
+> Our Products (available in ::: MT4 ::: and ::: MT5 ::: versions):
 :::::::: Neon Trade ::::::::
 :::::::: Neon Shadow ::::::::
 :::::::: Neon Trade EA ::::::::
@@ -135,17 +172,13 @@ e) хвастовство результатами стороннего реше
 
 --- 8 ---
 > Условие:
-::: Пользователь ::: ТРЕБУЕТ начать общение с ::: Администратором ::: чата или ::: Модератором :::.
+::: Пользователь ::: явно требует общения с ::: Разработчиком ::: продукта.
 
-
-AI ОТВЕТ
-================================================================================
-
---- 9 ---
-> Условие:
-::: Пользователь ::: Задает технический или общий вопрос по работе одного из наших продуктов.
+> Condition:
+The ::: User ::: explicitly demands communication with the product ::: Developer :::.
 
 > Наши Продукты (представлены в ::: MT4 ::: и ::: MT5 ::: версиях):
+> Our Products (available in ::: MT4 ::: and ::: MT5 ::: versions):
 :::::::: Neon Trade ::::::::
 :::::::: Neon Shadow ::::::::
 :::::::: Neon Trade EA ::::::::
@@ -156,11 +189,28 @@ AI ОТВЕТ
 :::::::: Channel Searcher ::::::::
 :::::::: Spline Searcher ::::::::
 
+--- 9 ---
+> Условие:
+::: Пользователь ::: ТРЕБУЕТ начать общение с ::: Администратором ::: чата или ::: Модератором :::.
+
+> Condition:
+The ::: User ::: DEMANDS to start a conversation with the chat ::: Administrator ::: or ::: Moderator :::.
+
+
+
+AI ОТВЕТ
+AI RESPONSE
+================================================================================
+
 --- 10 ---
 > Условие:
-::: Пользователь ::: Спрашивает рекомендацию по выбору одного из наших продуктов, хочет понять какой продукт ему лучше подойдет, или спрашивает о возможностях одного из наших продуктов.
+::: Пользователь ::: Задает технический или общий вопрос по работе одного из наших продуктов.
+
+> Condition:
+The ::: User ::: is asking a technical or general question about the operation of one of our products.
 
 > Наши Продукты (представлены в ::: MT4 ::: и ::: MT5 ::: версиях):
+> Our Products (available in ::: MT4 ::: and ::: MT5 ::: versions):
 :::::::: Neon Trade ::::::::
 :::::::: Neon Shadow ::::::::
 :::::::: Neon Trade EA ::::::::
@@ -173,9 +223,13 @@ AI ОТВЕТ
 
 --- 11 ---
 > Условие:
-::: Пользователь ::: задает вопрос или пишет сообщение, ответ на которое может перейти в интерес к нашим продуктам или вовсе привести к покупке одного из них.
+::: Пользователь ::: Спрашивает рекомендацию по выбору одного из наших продуктов, хочет понять какой продукт ему лучше подойдет, или спрашивает о возможностях одного из наших продуктов.
+
+> Condition:
+The ::: User ::: is asking for a recommendation on choosing one of our products, wants to understand which product will suit them better, or is asking about the features of one of our products.
 
 > Наши Продукты (представлены в ::: MT4 ::: и ::: MT5 ::: версиях):
+> Our Products (available in ::: MT4 ::: and ::: MT5 ::: versions):
 :::::::: Neon Trade ::::::::
 :::::::: Neon Shadow ::::::::
 :::::::: Neon Trade EA ::::::::
@@ -188,4 +242,26 @@ AI ОТВЕТ
 
 --- 12 ---
 > Условие:
+::: Пользователь ::: задает вопрос или пишет сообщение, ответ на которое может перейти в интерес к нашим продуктам или вовсе привести к покупке одного из них.
+
+> Condition:
+The ::: User ::: asks a question or writes a message, the answer to which may lead to interest in our products or even cause the purchase of one of them.
+
+> Наши Продукты (представлены в ::: MT4 ::: и ::: MT5 ::: версиях):
+> Our Products (available in ::: MT4 ::: and ::: MT5 ::: versions):
+:::::::: Neon Trade ::::::::
+:::::::: Neon Shadow ::::::::
+:::::::: Neon Trade EA ::::::::
+:::::::: Neon Shadow EA ::::::::
+:::::::: Currency Trade ::::::::
+:::::::: Crypto Trade ::::::::
+:::::::: Stocks Trade ::::::::
+:::::::: Channel Searcher ::::::::
+:::::::: Spline Searcher ::::::::
+
+--- 13 ---
+> Условие:
 ::: Пользователь ::: отправляет приветствие без конкретного вопроса или адресата для приветствия. То есть когда понятно что он просто приветствует чат. Например: "Привет", "Добрый день", "Здравствуйте", "Хай" и т.д.
+
+> Condition:
+The ::: User ::: sends a greeting without a specific question or recipient for the greeting. That is, when it is clear that they are simply greeting the chat. For example: "Hi", "Good day", "Hello", etc.
