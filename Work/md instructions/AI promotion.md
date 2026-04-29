@@ -99,11 +99,11 @@ Key Requirements for FREE version:
 
 ! Before launching on a real account:
 
-• Don't forget to add the domain https://neontrade.algowealthx.com to the allowed list in your MetaTrader 4/5 terminal:
+• Don't forget to add the domain "https://neontrade.algowealthx.com" to the allowed list in your MetaTrader 4/5 terminal:
 • Tools -> Options -> Expert Advisors -> Allow WebRequest -> Add domain
 • Questions? : ask in the group chat, moderators will answer
 
-Before launching the advisor on a real account, don't forget to add the domain "neontrade.algowealthx.com" to the allowed list in your MetaTrader 4/5 terminal.
+Before launching the advisor on a real account, don't forget to add the domain "https://neontrade.algowealthx.com" to the allowed list in your MetaTrader 4/5 terminal.
 
 
 EXCLUSIVE PERSONAL ::: NEON TRADE EA ::: FOR METATRADER 4/5
@@ -121,7 +121,7 @@ The key must be placed at: %APPDATA%\MetaQuotes\Terminal\Common\Files
 
 If everything is done correctly, absolutely all MetaTrader 4/5 terminals where this version of the robot for the corresponding terminal is installed will work. That is, the key is placed in this folder once, and then all robots on this computer will see this file and begin working.
 
-Before launching the advisor on a real account, don't forget to add the domain "neontrade.algowealthx.com" to the allowed list in your MetaTrader 4/5 terminal.
+Before launching the advisor on a real account, don't forget to add the domain "https://neontrade.algowealthx.com" to the allowed list in your MetaTrader 4/5 terminal.
 
 
 GUIDE FOR ::: NEON TRADE EA ::: (LINK AND CONTENT)
@@ -665,7 +665,7 @@ This database of ideas is not advisory in nature and is not mandatory for execut
 Idea: Explain why the robot might be "silent" and how to fix it in 10 seconds.
 Goal: Anxiety reduction + education + unobtrusive reminder of ::: DYNAMIC ::: mode.
 Hook: "Is your robot silent? Check one setting..."
-Implementation: Mention adding the domain ::: neontrade.algowealthx.com :::. If okay but more pairs are desired — provide a link to ::: Neon Trade EA MT5 ::: as the most advanced solution.
+Implementation: Mention adding the domain "https://neontrade.algowealthx.com". If okay but more pairs are desired — provide a link to ::: Neon Trade EA MT5 ::: as the most advanced solution.
 
 > Pattern 2: Broker Choice and "Hidden Traps" of Symbols
 Idea: Talk about prefixes and postfixes (EURUSD.m, GBPUSD!).

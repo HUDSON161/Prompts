@@ -99,11 +99,11 @@ Key Requirements for FREE version:
 
 ! Before launching on a real account:
 
-• Don't forget to add the domain https://neontrade.algowealthx.com to the allowed list in your MetaTrader 4/5 terminal:
+• Don't forget to add the domain "https://neontrade.algowealthx.com" to the allowed list in your MetaTrader 4/5 terminal:
 • Tools -> Options -> Expert Advisors -> Allow WebRequest -> Add domain
 • Questions? : ask in the group chat, moderators will answer
 
-Before launching the advisor on a real account, don't forget to add the domain "neontrade.algowealthx.com" to the allowed list in your MetaTrader 4/5 terminal.
+Before launching the advisor on a real account, don't forget to add the domain "https://neontrade.algowealthx.com" to the allowed list in your MetaTrader 4/5 terminal.
 
 
 EXCLUSIVE PERSONAL ::: NEON TRADE EA ::: FOR METATRADER 4/5
@@ -121,7 +121,7 @@ The key must be placed at: %APPDATA%\MetaQuotes\Terminal\Common\Files
 
 If everything is done correctly, absolutely all MetaTrader 4/5 terminals where this version of the robot for the corresponding terminal is installed will work. That is, the key is placed in this folder once, and then all robots on this computer will see this file and begin working.
 
-Before launching the advisor on a real account, don't forget to add the domain "neontrade.algowealthx.com" to the allowed list in your MetaTrader 4/5 terminal.
+Before launching the advisor on a real account, don't forget to add the domain "https://neontrade.algowealthx.com" to the allowed list in your MetaTrader 4/5 terminal.
 
 
 GUIDE FOR ::: NEON TRADE EA ::: (LINK AND CONTENT)
@@ -678,7 +678,7 @@ For these specialized sectors, the minimum recommended deposit is $100. The robo
 How do I correctly add the domain for the robot to work in the terminal?
 
 > Response Essence (Main Idea):
-You need to add the address ::: neontrade.algowealthx.com ::: to the list of allowed URLs. Go to Tools -> Options -> Expert Advisors -> Allow WebRequest for the following URLs and add the specified domain. This is critical for settings synchronization in ::: DYNAMIC ::: mode.
+You need to add the address "https://neontrade.algowealthx.com" to the list of allowed URLs. Go to Tools -> Options -> Expert Advisors -> Allow WebRequest for the following URLs and add the specified domain. This is critical for settings synchronization in ::: DYNAMIC ::: mode.
 
 ----------------------------------
 

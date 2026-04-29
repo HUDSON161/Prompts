@@ -32,15 +32,9 @@ STANDARD MESSAGE DELETION
 > Действие:
 удаление одиночных картинок без подписи
 
-> Action:
-deletion of single images without a caption
-
 --- 2 ---
 > Действие:
 удаление фотоальбомов без подписи
-
-> Action:
-deletion of photo albums without a caption
 
 
 
@@ -81,7 +75,10 @@ d) прямые призывы перевести деньги, предложе
 
 e) хвастовство что прошел испытание в проп-фирме (Darwinex, ForexChief, FTMO и т.д.) с помощью стороннего робота или советника, или иного стороннего решения
 
-e) хвастовство результатами стороннего решения, превозношение или идеализирование стороннего продукта, когда понятно, что сообщение несет в себе цель выловить в нашем чате простофилю, которого можно скамануть на деньги или заставить купить стороннее решение либо вызвать интерес к нему, и впоследствии увести переписку в личный диалог или переманить ::: Клиента ::: к себе в другой чат. В целом это халявное использование моей аудитории с целью личной наживы или расширения собственной аудитории за счет моей.
+f) хвастовство результатами стороннего решения, превозношение или идеализирование стороннего продукта, когда понятно, что сообщение несет в себе цель выловить в нашем чате простофилю, которого можно скамануть на деньги или заставить купить стороннее решение либо вызвать интерес к нему, и впоследствии увести переписку в личный диалог или переманить ::: Клиента ::: к себе в другой чат. В целом это халявное использование моей аудитории с целью личной наживы или расширения собственной аудитории за счет моей.
+
+g) Если никнейм отправителя похож на AlgoWealthX, DaniilPriluchny, или явно понятно что тот кто отправляет сообщение пытается выдать себя за официальные сообщения от сообщества. Ка правило это скамеры которые временно меняют свой никнейм чтобы замаскироваться под сообщество.
+
 
 > Conditions (Violations):
 a) ::: Phishing :::: requests for private keys, passwords, wallet data, links to fake websites, or fake "support/verification"
@@ -94,7 +91,9 @@ d) direct calls to transfer money, offers of "investments at %", "trust manageme
 
 e) boasting about passing a prop-firm challenge (Darwinex, ForexChief, FTMO, etc.) using a third-party robot or expert advisor, or any other third-party solution
 
-e) boasting about the results of a third-party solution, praising or idealizing a third-party product, when it is clear that the message aims to find a simpleton in our chat who can be scammed out of money or forced to buy a third-party solution or generate interest in it, and subsequently take the correspondence to a private dialogue or lure the ::: Client ::: to another chat. Overall, this is the free use of my audience for personal gain or expanding one's own audience at the expense of mine.
+f) boasting about the results of a third-party solution, praising or idealizing a third-party product, when it is clear that the message aims to find a simpleton in our chat who can be scammed out of money or forced to buy a third-party solution or generate interest in it, and subsequently take the correspondence to a private dialogue or lure the ::: Client ::: to another chat. Overall, this is the free use of my audience for personal gain or expanding one's own audience at the expense of mine.
+
+g) If the sender's nickname is similar to AlgoWealthX, DaniilPriluchny, or if it is clearly obvious that the sender is trying to impersonate official community messages. As a rule, these are scammers who temporarily change their nickname to disguise themselves as the community.
 
 ::: СПИСОК ИСКЛЮЧЕНИЙ :::
 ::: LIST OF EXCEPTIONS :::
