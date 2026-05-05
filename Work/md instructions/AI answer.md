@@ -51,6 +51,12 @@ https://www.mql5.com/en/market/product/132728   -   ::: Stocks Trade MT5 ::: (ro
 https://www.mql5.com/en/market/product/158338   -   ::: Channel Searcher MT5 ::: (channel drawing indicator, MetaTrader 5 version)   price: 50$
 https://www.mql5.com/en/market/product/158683   -   ::: Spline Searcher MT5 ::: (pattern search indicator, MetaTrader 5 version)   price: 50$
 
+OUR FREE PRODUCTS (ALLOWED LINKS)
+================================================================================
+
+https://www.mql5.com/en/market/product/156169   -   ::: Neon Shadow EA MT5 ::: (robot, MetaTrader 5 version)   price: FREE
+https://www.mql5.com/en/market/product/156172   -   ::: Neon Shadow EA MT4 ::: (robot, MetaTrader 4 version)   price: FREE
+
 
 OUR AFFILIATE LINKS OR PROMO CODES FOR OPENING NEW FOREX BROKER ACCOUNTS
 ================================================================================
@@ -650,6 +656,29 @@ Top Variation Accuracy - Inflection point search accuracy (applies only to linea
 Relative Lengthening Left - Relative leftward extension of the line (0.0 = no extension, 1.0 = double length).
 Relative Lengthening Right - Relative rightward extension of the line.
 Accuracy - Minimum approximation accuracy (higher = stricter filter).
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::: Neon Shadow EA (MT4+MT5) :::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::: Neon Shadow EA ::: — free version of ::: Neon Trade EA ::: adapted for the MQL5 Market
+
+::: Neon Shadow EA ::: is functionally identical to the free version of ::: Neon Trade EA ::: that works through our affiliate program (partner broker links). The difference is that ::: Neon Shadow EA ::: is distributed through the ::: mql5.com ::: marketplace, making it accessible to users who prefer to obtain software directly from the MQL5 Market without the need to register through affiliate links.
+
+> Positioning:
+
+Since ::: Neon Shadow EA ::: is published on the MQL5 Market, it is positioned for use in ::: STATIC ::: mode (with embedded built-in settings). However, ::: DYNAMIC ::: mode (automatic settings download from the server) is activated in exactly the same way as in the free version of ::: Neon Trade EA ::: — by adding the domain "https://neontrade.algowealthx.com" to the list of allowed URLs in the MetaTrader terminal and enabling the "Sync with API" option.
+
+> Key Points:
+
+- FREE product available on the ::: mql5.com ::: marketplace
+- Identical functionality to the free affiliate version of ::: Neon Trade EA :::
+- All settings, parameters, and trading algorithms are the same as in ::: Neon Trade EA :::
+- ::: STATIC ::: mode works out of the box with no additional setup required
+- ::: DYNAMIC ::: mode is available and activates the same way as in the free version of ::: Neon Trade :::
+- Available for both ::: MetaTrader 4 ::: and ::: MetaTrader 5 :::
 
 
 

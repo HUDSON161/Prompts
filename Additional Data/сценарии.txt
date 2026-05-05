@@ -113,6 +113,18 @@ These products of ours can be advertised or praised as it is beneficial to us. I
 :::::::: Stocks Trade ::::::::
 :::::::: Channel Searcher ::::::::
 :::::::: Spline Searcher ::::::::
+:::::::: Neon Coin ::::::::
+:::::::: Goldfall ::::::::
+:::::::: Neon Racer ::::::::
+:::::::: Neon Surfer ::::::::
+:::::::: Neon Oil ::::::::
+:::::::: Neon Klondike ::::::::
+:::::::: Golden Neon ::::::::
+:::::::: Oil Vortex ::::::::
+:::::::: Oil Tsunami ::::::::
+:::::::: Golden Glow ::::::::
+:::::::: Neon Gold ::::::::
+
 
 
 
@@ -147,6 +159,17 @@ The ::: User ::: wants to buy or rent one or more of our products on ::: mql5.co
 :::::::: Stocks Trade ::::::::
 :::::::: Channel Searcher ::::::::
 :::::::: Spline Searcher ::::::::
+:::::::: Neon Coin ::::::::
+:::::::: Goldfall ::::::::
+:::::::: Neon Racer ::::::::
+:::::::: Neon Surfer ::::::::
+:::::::: Neon Oil ::::::::
+:::::::: Neon Klondike ::::::::
+:::::::: Golden Neon ::::::::
+:::::::: Oil Vortex ::::::::
+:::::::: Oil Tsunami ::::::::
+:::::::: Golden Glow ::::::::
+:::::::: Neon Gold ::::::::
 
 
 
@@ -168,6 +191,17 @@ The ::: User ::: is dissatisfied with one or more of our products, lost money, w
 :::::::: Stocks Trade ::::::::
 :::::::: Channel Searcher ::::::::
 :::::::: Spline Searcher ::::::::
+:::::::: Neon Coin ::::::::
+:::::::: Goldfall ::::::::
+:::::::: Neon Racer ::::::::
+:::::::: Neon Surfer ::::::::
+:::::::: Neon Oil ::::::::
+:::::::: Neon Klondike ::::::::
+:::::::: Golden Neon ::::::::
+:::::::: Oil Vortex ::::::::
+:::::::: Oil Tsunami ::::::::
+:::::::: Golden Glow ::::::::
+:::::::: Neon Gold ::::::::
 
 --- 8 ---
 > Условие:
@@ -187,6 +221,17 @@ The ::: User ::: explicitly demands communication with the product ::: Developer
 :::::::: Stocks Trade ::::::::
 :::::::: Channel Searcher ::::::::
 :::::::: Spline Searcher ::::::::
+:::::::: Neon Coin ::::::::
+:::::::: Goldfall ::::::::
+:::::::: Neon Racer ::::::::
+:::::::: Neon Surfer ::::::::
+:::::::: Neon Oil ::::::::
+:::::::: Neon Klondike ::::::::
+:::::::: Golden Neon ::::::::
+:::::::: Oil Vortex ::::::::
+:::::::: Oil Tsunami ::::::::
+:::::::: Golden Glow ::::::::
+:::::::: Neon Gold ::::::::
 
 --- 9 ---
 > Условие:
@@ -219,6 +264,17 @@ The ::: User ::: is asking a technical or general question about the operation o
 :::::::: Stocks Trade ::::::::
 :::::::: Channel Searcher ::::::::
 :::::::: Spline Searcher ::::::::
+:::::::: Neon Coin ::::::::
+:::::::: Goldfall ::::::::
+:::::::: Neon Racer ::::::::
+:::::::: Neon Surfer ::::::::
+:::::::: Neon Oil ::::::::
+:::::::: Neon Klondike ::::::::
+:::::::: Golden Neon ::::::::
+:::::::: Oil Vortex ::::::::
+:::::::: Oil Tsunami ::::::::
+:::::::: Golden Glow ::::::::
+:::::::: Neon Gold ::::::::
 
 --- 11 ---
 > Условие:
@@ -238,6 +294,17 @@ The ::: User ::: is asking for a recommendation on choosing one of our products,
 :::::::: Stocks Trade ::::::::
 :::::::: Channel Searcher ::::::::
 :::::::: Spline Searcher ::::::::
+:::::::: Neon Coin ::::::::
+:::::::: Goldfall ::::::::
+:::::::: Neon Racer ::::::::
+:::::::: Neon Surfer ::::::::
+:::::::: Neon Oil ::::::::
+:::::::: Neon Klondike ::::::::
+:::::::: Golden Neon ::::::::
+:::::::: Oil Vortex ::::::::
+:::::::: Oil Tsunami ::::::::
+:::::::: Golden Glow ::::::::
+:::::::: Neon Gold ::::::::
 
 --- 12 ---
 > Условие:
@@ -257,6 +324,17 @@ The ::: User ::: asks a question or writes a message, the answer to which may le
 :::::::: Stocks Trade ::::::::
 :::::::: Channel Searcher ::::::::
 :::::::: Spline Searcher ::::::::
+:::::::: Neon Coin ::::::::
+:::::::: Goldfall ::::::::
+:::::::: Neon Racer ::::::::
+:::::::: Neon Surfer ::::::::
+:::::::: Neon Oil ::::::::
+:::::::: Neon Klondike ::::::::
+:::::::: Golden Neon ::::::::
+:::::::: Oil Vortex ::::::::
+:::::::: Oil Tsunami ::::::::
+:::::::: Golden Glow ::::::::
+:::::::: Neon Gold ::::::::
 
 --- 13 ---
 > Условие:
