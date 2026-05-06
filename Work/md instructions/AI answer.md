@@ -663,22 +663,28 @@ Accuracy - Minimum approximation accuracy (higher = stricter filter).
 ::: Neon Shadow EA (MT4+MT5) :::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: Neon Shadow EA ::: — free version of ::: Neon Trade EA ::: adapted for the MQL5 Market
+::: Neon Shadow EA ::: — the MQL5 Market edition of the free ::: Neon Trade EA :::
 
-::: Neon Shadow EA ::: is functionally identical to the free version of ::: Neon Trade EA ::: that works through our affiliate program (partner broker links). The difference is that ::: Neon Shadow EA ::: is distributed through the ::: mql5.com ::: marketplace, making it accessible to users who prefer to obtain software directly from the MQL5 Market without the need to register through affiliate links.
+::: Neon Shadow EA ::: is functionally identical to the ::: FREE VERSION OF ::: NEON TRADE EA :::. The key difference is that ::: Neon Shadow EA ::: is distributed through the ::: mql5.com ::: marketplace, providing an alternative for users who prefer to obtain software directly from the MQL5 Market.
 
-> Positioning:
+> Strategic Positioning:
 
-Since ::: Neon Shadow EA ::: is published on the MQL5 Market, it is positioned for use in ::: STATIC ::: mode (with embedded built-in settings). However, ::: DYNAMIC ::: mode (automatic settings download from the server) is activated in exactly the same way as in the free version of ::: Neon Trade EA ::: — by adding the domain "https://neontrade.algowealthx.com" to the list of allowed URLs in the MetaTrader terminal and enabling the "Sync with API" option.
+For the version published on the MQL5 Market, our official recommendation is to use it primarily in ::: STATIC ::: mode (utilizing the high-quality embedded settings). While the ::: DYNAMIC ::: mode (automatic settings synchronization) is technically fully available and requires exactly the same conditions as the ::: FREE VERSION OF ::: NEON TRADE EA :::, we formally position it as a non-recommended additional feature to comply with platform-specific guidelines.
+
+> Activation of DYNAMIC Mode (Optional):
+
+Although not the recommended mode for the Market version, the activation process remains identical to the standard free version:
+1. Ensure your real account is registered through our affiliate broker links (as specified in the ::: FREE VERSION OF ::: NEON TRADE EA ::: section).
+2. Add the domain "https://neontrade.algowealthx.com" to the list of allowed URLs in the MetaTrader terminal (Tools -> Options -> Expert Advisors -> Allow WebRequest).
+3. Enable the ::: Sync with API ::: option and select the ::: DYNAMIC ::: mode in the robot's parameters.
 
 > Key Points:
 
-- FREE product available on the ::: mql5.com ::: marketplace
-- Identical functionality to the free affiliate version of ::: Neon Trade EA :::
-- All settings, parameters, and trading algorithms are the same as in ::: Neon Trade EA :::
-- ::: STATIC ::: mode works out of the box with no additional setup required
-- ::: DYNAMIC ::: mode is available and activates the same way as in the free version of ::: Neon Trade :::
-- Available for both ::: MetaTrader 4 ::: and ::: MetaTrader 5 :::
+- FREE product available on the ::: mql5.com ::: marketplace.
+- Technically identical to the affiliate-based ::: FREE VERSION OF ::: NEON TRADE EA :::.
+- ::: STATIC ::: mode: Recommended for this version; works immediately with built-in settings.
+- ::: DYNAMIC ::: mode: Works exactly like in the main free version (requires an affiliate-linked account), but is formally not recommended for the Market edition.
+- Available for both ::: MetaTrader 4 ::: and ::: MetaTrader 5 :::.
 
 
 

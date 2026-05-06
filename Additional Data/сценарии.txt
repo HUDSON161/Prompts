@@ -124,6 +124,11 @@ These products of ours can be advertised or praised as it is beneficial to us. I
 :::::::: Oil Tsunami ::::::::
 :::::::: Golden Glow ::::::::
 :::::::: Neon Gold ::::::::
+:::::::: Coin Miner ::::::::
+:::::::: Gold Worker ::::::::
+:::::::: Gold Racer ::::::::
+:::::::: Neon Runner ::::::::
+
 
 
 
@@ -170,6 +175,11 @@ The ::: User ::: wants to buy or rent one or more of our products on ::: mql5.co
 :::::::: Oil Tsunami ::::::::
 :::::::: Golden Glow ::::::::
 :::::::: Neon Gold ::::::::
+:::::::: Coin Miner ::::::::
+:::::::: Gold Worker ::::::::
+:::::::: Gold Racer ::::::::
+:::::::: Neon Runner ::::::::
+
 
 
 
@@ -202,6 +212,11 @@ The ::: User ::: is dissatisfied with one or more of our products, lost money, w
 :::::::: Oil Tsunami ::::::::
 :::::::: Golden Glow ::::::::
 :::::::: Neon Gold ::::::::
+:::::::: Coin Miner ::::::::
+:::::::: Gold Worker ::::::::
+:::::::: Gold Racer ::::::::
+:::::::: Neon Runner ::::::::
+
 
 --- 8 ---
 > Условие:
@@ -232,6 +247,11 @@ The ::: User ::: explicitly demands communication with the product ::: Developer
 :::::::: Oil Tsunami ::::::::
 :::::::: Golden Glow ::::::::
 :::::::: Neon Gold ::::::::
+:::::::: Coin Miner ::::::::
+:::::::: Gold Worker ::::::::
+:::::::: Gold Racer ::::::::
+:::::::: Neon Runner ::::::::
+
 
 --- 9 ---
 > Условие:
@@ -275,6 +295,11 @@ The ::: User ::: is asking a technical or general question about the operation o
 :::::::: Oil Tsunami ::::::::
 :::::::: Golden Glow ::::::::
 :::::::: Neon Gold ::::::::
+:::::::: Coin Miner ::::::::
+:::::::: Gold Worker ::::::::
+:::::::: Gold Racer ::::::::
+:::::::: Neon Runner ::::::::
+
 
 --- 11 ---
 > Условие:
@@ -305,6 +330,11 @@ The ::: User ::: is asking for a recommendation on choosing one of our products,
 :::::::: Oil Tsunami ::::::::
 :::::::: Golden Glow ::::::::
 :::::::: Neon Gold ::::::::
+:::::::: Coin Miner ::::::::
+:::::::: Gold Worker ::::::::
+:::::::: Gold Racer ::::::::
+:::::::: Neon Runner ::::::::
+
 
 --- 12 ---
 > Условие:
@@ -335,6 +365,11 @@ The ::: User ::: asks a question or writes a message, the answer to which may le
 :::::::: Oil Tsunami ::::::::
 :::::::: Golden Glow ::::::::
 :::::::: Neon Gold ::::::::
+:::::::: Coin Miner ::::::::
+:::::::: Gold Worker ::::::::
+:::::::: Gold Racer ::::::::
+:::::::: Neon Runner ::::::::
+
 
 --- 13 ---
 > Условие:
