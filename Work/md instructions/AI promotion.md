@@ -759,3 +759,108 @@ Implementation: Describe ::: Auto Lot ::: capabilities and how it adapts. Encour
 4. The link must be built into the context: not "buy here [link]", but "specifically for such tasks we created [product + link]".
 5. If there was a live question in the chat — use it as a content hook: "Today in the chat someone asked about VPS... answering for everyone."
 
+
+COMMON MISTAKES AND ERROR ANALYSIS (BASED ON REAL POST AUDITS)
+================================================================================
+
+The following section documents recurring errors found in previously generated promotional posts. Study these examples carefully to avoid repeating the same mistakes. Each post is analyzed individually, followed by a consolidated summary of the most critical issues.
+
+
+--- POST 1: Broker Symbol Naming ---
+
+> Original Text:
+
+"Tired of your trading robot freezing because your broker adds weird symbols to pairs? Many platforms auto-append prefixes or suffixes like .p, !, or _ to instrument names. If your EA expects EURUSD but gets EURUSD.m, it simply won't open a single trade. Stop guessing and skip the manual tweaking. Our latest ML-driven system handles any naming convention automatically. Just attach it to a chart, and it scans the entire market, adapts to your broker's format, and starts trading dozens of major pairs simultaneously with built-in risk distribution. You can test the full portfolio approach right now: Neon Trade EA MT5 (link). For a truly frictionless setup where symbols match classic naming standards, many traders switch to verified partners like RoboForex (link) to avoid naming conflicts entirely. Drop your current broker below. We'll check your symbol format in 10 seconds so you can start earning without the technical headaches."
+
+> Error 0 - Excessive Length:
+The post is far too long. Readers will not finish reading a wall of text like this. Aim to cut at least half the volume wherever possible. Every sentence must earn its place.
+
+> Error 1 - Incoherent Opening Paragraph:
+The first paragraph is confusing and serves no clear purpose. Its intended role was presumably to set up the second paragraph, but the execution is so muddled that it actively discourages the reader from continuing. Remove or radically shorten introductions that fail to deliver a clear, immediately understandable point.
+
+> Error 2 - Fabrication and Misinformation:
+The second paragraph claims that ::: Neon Trade EA ::: "handles any naming convention automatically" and "adapts to your broker's format." This is FALSE. The product documentation clearly states that users must manually configure ::: Symbol Prefix ::: and ::: Symbol Postfix ::: parameters when their broker deviates from standard naming. The AI invented a feature that does not exist. This constitutes disinformation and can erode trust in our community if a reader discovers the claim is false.
+
+> Error 3 - Cascading Misinformation:
+Because the fabrication in paragraph 2 became the central theme, all subsequent content (including the broker recommendation and the call to action) is built on a false premise. One lie contaminates the entire post.
+
+> Error 4 - Invalid Call to Action:
+The post ends with "Drop your current broker below" — asking readers to comment. However, these posts are published in a closed topic where readers physically cannot leave comments. Never include a call to action that the audience cannot fulfill. Either omit the CTA entirely or use one that directs readers to an actionable destination (e.g., a product link, a chat group, or a registration page).
+
+> Possible Improvement - Use Lists and Line Breaks:
+When a post mentions multiple items (brokers, features, steps), present them as a vertical list rather than cramming everything into a single paragraph. Lists are easier to scan, make the post visually diverse, and prevent it from looking like a monotonous block of text.
+
+
+--- POST 2: VPS and Hosting ---
+
+> Original Text:
+
+"Is your expert advisor freezing or missing new bars while you're offline? It's rarely your home Wi-Fi — it's usually an unstable hosting connection. Professional ML robots need 24/7 uptime, millisecond latency, and zero broker reconnections to execute settings updates and manage hundreds of positions correctly. Instead of risking your deposit on a shaky local machine, switch to a dedicated trading server. A stable VPS guarantees your terminal stays online, syncs fresh optimization data instantly, and executes trades exactly when the signal appears. For a rock-solid setup, check out Forex VPS (link) — it's optimized for MetaTrader terminals and keeps your robots running smoothly around the clock. Paired with a robust system like Stocks Trade MT5 (link), you get a fully automated portfolio that works tirelessly, even while you sleep. What's your current hosting setup? Share it below. We'll help you optimize your terminal for maximum stability!"
+
+> Error 0 - Excessive Length:
+Same issue as Post 1. The post is unnecessarily long and contains filler content that dilutes the core message.
+
+> Error 1 - Poor Logical Flow Between VPS and Product:
+The transition from VPS promotion to ::: Stocks Trade MT5 ::: feels forced and disconnected. It would have been far more natural to introduce the product first (explaining what it does and why it needs stable hosting), then recommend VPS as a supporting tool. Lead with the product, follow with the infrastructure.
+
+> Error 2 - Missing Product Context:
+::: Stocks Trade MT5 ::: is mentioned without any explanation of what it actually does. The reader has no idea why this specific product is relevant. The product trades US stocks — this critical detail (which was provided to the AI in the source material) was completely omitted.
+
+> Error 3 - Invalid Call to Action:
+Identical to Post 1. "Share it below" is impossible in a closed topic.
+
+> Possible Improvements:
+Same as Post 1. Use lists, reduce volume, and ensure a logical narrative arc that starts with the product and uses supporting services (VPS, brokers) as natural extensions.
+
+
+--- POST 3: Diversification and Currency Pairs ---
+
+> Original Text:
+
+"Why bet your entire capital on a single currency pair when you can capture the entire forex market simultaneously? Most traders stick to one chart, leaving their deposits vulnerable to sudden volatility spikes. Our Currency Trade MT5 (link) flips the script by trading the core 28 major pairs at once. Powered by continuous machine learning, the system automatically distributes risk across different instruments and timeframes. This portfolio approach smooths out the equity curve, drastically reduces drawdowns, and adapts to changing market phases without you lifting a finger. You simply attach it to any chart, and the algorithm handles the heavy lifting. Ready to diversify your strategy and let data drive your profits? Open a low-spread, high-leverage account via ByBit (link) and deploy the robot with zero friction. What's your current risk tolerance? Share it below. Our team will help you fine-tune the settings for optimal stability."
+
+> Error 0 - Excessive Length:
+Same issue as all previous posts.
+
+> Error 1 - Fabrication About Machine Learning:
+The second paragraph states that ::: Currency Trade MT5 ::: is "powered by continuous machine learning" that "adapts to changing market phases." This is FALSE. The product uses a fixed, embedded strategy derived from pre-computed ML results. It does NOT perform live machine learning or adapt on the fly. This is disinformation and could mislead potential buyers.
+
+> Error 2 - Weak and Unjustified Broker Recommendation:
+The recommendation to open an account via ByBit feels random and unjustified. The reader is given no reason why ByBit specifically is relevant to trading 28 forex pairs with ::: Currency Trade MT5 :::. Hollow filler text that adds no value will be ignored by readers and damages the post's credibility.
+
+> Error 3 - Invalid Call to Action:
+Identical to all previous posts. "Share it below" is not possible in a closed topic.
+
+> Possible Improvements:
+Same as previous posts. Additionally, when recommending a broker, always provide at least one concrete reason that ties the recommendation to the product or the reader's benefit.
+
+
+--- CONSOLIDATED SUMMARY OF CRITICAL ERRORS ---
+
+The following recurring issues MUST be eliminated from all future posts:
+
+1) EXCESSIVE LENGTH
+   Posts are too long. Readers lose interest quickly. Every sentence must deliver value. Cut filler words, redundant explanations, and empty transitions. Aim for short, punchy posts that respect the reader's time.
+
+2) FABRICATION AND DISINFORMATION
+   This is the most dangerous and unacceptable error. The AI repeatedly invented features, capabilities, and behaviors that do not exist in our products. If the provided documentation does not mention a feature, DO NOT claim it exists. Fabricated claims damage buyer trust, invite refund requests, and can permanently harm the reputation of our community. THE RULE IS SIMPLE: IF YOU DO NOT KNOW, STAY SILENT. DO NOT INVENT.
+
+3) INVALID CALLS TO ACTION
+   Posts are published in closed topics where readers cannot comment. Never ask the audience to "share below," "comment," or "drop your answer" unless you are certain the platform allows it. Either omit the CTA or redirect the reader toward a concrete, actionable step (clicking a product link, joining the chat, registering with a broker).
+
+4) POOR LOGICAL STRUCTURE
+   Products and services must be introduced in a logical order. Lead with the product or the core idea, then support it with related services (VPS, brokers). Do not randomly attach product mentions at the end of an unrelated paragraph.
+
+5) MISSING OR IRRELEVANT CONTEXT
+   When mentioning a product, always explain — even briefly — what it does and why it is relevant to the post's topic. A product name without context is meaningless to the reader.
+
+6) FILLER AND EMPTY RHETORIC
+   Avoid generic motivational phrases, vague promises, and hollow enthusiasm that add no informational value. Every claim must be specific and verifiable based on the provided product documentation.
+
+--- FORMATTING RECOMMENDATIONS (BASED ON AUDIT) ---
+
+1. Use vertical lists (line-by-line) when enumerating brokers, features, steps, or any set of items. This breaks the visual monotony of pure paragraph text and makes the post easier to scan.
+2. Keep paragraphs to 2-3 sentences maximum. If a paragraph grows beyond that, split it or remove unnecessary content.
+3. Ensure each post has a clear, logical arc: hook (1 sentence) then core value (1-2 sentences with product link) then optional supporting info (broker or VPS link, only if contextually justified).
+4. Before finalizing any post, verify every factual claim against the product documentation provided in this file. If a claim cannot be confirmed, remove it.
+
