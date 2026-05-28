@@ -62,6 +62,8 @@ https://www.mql5.com/en/market/product/156172   -   ::: Neon Shadow EA MT4 ::: (
 OUR AFFILIATE LINKS OR PROMO CODES FOR OPENING NEW FOREX BROKER ACCOUNTS
 ================================================================================
 
+International Brokers (HIGHEST PRIORITY. RECOMMEND USUALLY):
+
 RoboForex                   https://sh.algowealthx.com/PbeSky     or promocode: utqt
 ByBit [MetaTrader 5 only]   https://sh.algowealthx.com/aWptqy     or promocode: CHOOMBA
 Tickmill                    https://sh.algowealthx.com/deGVN6     or promocode: IB97022973
@@ -69,6 +71,10 @@ TeleTrade                   https://sh.algowealthx.com/GzXtET     or promocode: 
 Switch Markets              https://sh.algowealthx.com/fzDm6d     or promocode: 9847
 BlackBull                   https://sh.algowealthx.com/AQCVXh     or promocode: 5391
 
+Brokers in the Russian Federation (LOW PRIORITY. FOR RUSSIANS CITIZENS ONLY):
+
+Finam                       https://sh.algowealthx.com/2eYFeK
+Alfa Forex                  https://sh.algowealthx.com/VHFBXe
 
 OUR AFFILIATE LINKS OR PROMO CODES FOR PURCHASING VPS
 ================================================================================
@@ -192,9 +198,8 @@ Subfolder In Files Folder - Folder from which "DYNAMIC" mode takes settings and 
 
 --- Settings for Adapting to Instrument Naming Rules ---
 
-To Lower Symbol - Instrument naming in lower/upper case.
-Symbol Postfix - String that starts every instrument name. There are separate implementations for several types of instruments (regular currency pairs and exotic/cryptocurrency/stocks).
-Symbol Prefix - String that ends every instrument name. There are separate implementations for several types of instruments (regular currency pairs and exotic/cryptocurrency/stocks).
+Symbol Postfix - String that starts every instrument name. There are separate implementations for several types of instruments (regular currency pairs and cryptocurrency/stocks/commodities/indexes).
+Symbol Prefix - String that ends every instrument name. There are separate implementations for several types of instruments (regular currency pairs and cryptocurrency/stocks/commodities/indexes).
 
 This block is very important, since initially the advisor is configured to work with instruments that use the classic naming scheme, for example, as used by the broker "RoboForex". It is such that all instruments are written in capital letters and do not have initial and final special characters in the name (postfix and prefix). For example - "EURUSD". But there are also brokers that name, for example, like this - "EURUSD!" or ".eurusd_". In the first case you need to do this: "Symbol Postfix = '!'", and in the second case: To Lower Symbol = true, Symbol Postfix = "_", Symbol Prefix = "."
 If you don't do this, your advisor will not open positions. If your broker has the same instrument naming rules, then you don't need to do anything, and the advisor will work immediately.
@@ -432,7 +437,6 @@ My servers analyze the behavior of all 28 major currency pairs, identify the mos
 Category - Parameter - Description
 
 --- Instrument Naming Adaptation ---
-To Lower Symbol - Converts instrument names to lowercase. Used when the broker names symbols with lowercase letters (e.g., «!eurusd_»).
 Symbol Prefix - String that precedes the instrument name (e.g., «!» or «_»).
 Symbol Postfix - String that follows the instrument name (e.g., «!» or «_»).
 

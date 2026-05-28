@@ -377,3 +377,46 @@ The ::: User ::: asks a question or writes a message, the answer to which may le
 
 > Condition:
 The ::: User ::: sends a greeting without a specific question or recipient for the greeting. That is, when it is clear that they are simply greeting the chat. For example: "Hi", "Good day", "Hello", etc.
+
+
+--- 14 ---
+
+> Conditions:
+If the ::: User's ::: message implements something from this list:
+
+a) short meaningless "trust" phrases combined with file attachments ("proven", "approved", "verified", "guaranteed", "official", "100% profit", "no risk", "signal ready", "proven and approved")
+
+b) phrases impersonating authority or verification status ("verified by regulator", "certified strategy", "official broker partner", "authorized signal")
+
+::: LIST OF EXCEPTIONS :::
+
+> Description:
+These products of ours can be advertised or praised as it is beneficial to us. It is also allowed to boast about the results of passing prop-firm challenges using our products. Available in ::: MT4 ::: and ::: MT5 ::: versions:
+
+:::::::: Neon Trade ::::::::
+:::::::: Neon Shadow ::::::::
+:::::::: Neon Trade EA ::::::::
+:::::::: Neon Shadow EA ::::::::
+:::::::: Currency Trade ::::::::
+:::::::: Crypto Trade ::::::::
+:::::::: Stocks Trade ::::::::
+:::::::: Channel Searcher ::::::::
+:::::::: Spline Searcher ::::::::
+:::::::: Neon Coin ::::::::
+:::::::: Goldfall ::::::::
+:::::::: Neon Racer ::::::::
+:::::::: Neon Surfer ::::::::
+:::::::: Neon Oil ::::::::
+:::::::: Neon Klondike ::::::::
+:::::::: Golden Neon ::::::::
+:::::::: Oil Vortex ::::::::
+:::::::: Oil Tsunami ::::::::
+:::::::: Golden Glow ::::::::
+:::::::: Neon Gold ::::::::
+:::::::: Coin Miner ::::::::
+:::::::: Gold Worker ::::::::
+:::::::: Gold Racer ::::::::
+:::::::: Neon Runner ::::::::
+
+
+
