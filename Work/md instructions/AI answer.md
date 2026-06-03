@@ -316,6 +316,23 @@ Important Requirements:
 
 
 
+SET FILES FOR ::: NEON TRADE EA ::: AND ::: NEON SHADOW EA :::
+================================================================================
+
+set files link (Telegram):    https://t.me/AlgoWealthXcom/6243
+set files link (MQL5):        https://www.mql5.com/en/blogs/post/758833
+
+SET FILES INFO:
+
+In these posts you will find the official .SET configuration files (presets) for our robots ::: Neon Trade ::: and ::: Neon Shadow :::. 
+
+Please note:
+- For ::: Neon Shadow :::, these settings are also suitable, but only when using the bonus ::: DYNAMIC ::: mode.
+- The settings are optimized for 28 currency pairs to ensure maximum versatility across any broker, and are compatible with both MetaTrader 4 and MetaTrader 5 versions of the robots.
+
+
+
+
 PRODUCT DESCRIPTIONS
 ================================================================================
 
@@ -871,4 +888,12 @@ What should I do if the User sends a greeting without a specific question or rec
 
 > Response Essence (Main Idea):
 Greet the user warmly and politely, welcoming them to the community. Then, gently nudge them to ask a specific question or express interest in our products. For example, ask what specifically interests them in our chat or if they would like to learn more about our robots.
+
+----------------------------------
+
+> Question 23:
+Where can I find the .SET files for ::: Neon Trade ::: and ::: Neon Shadow :::?
+
+> Response Essence (Main Idea):
+You can find the official .SET configuration files for ::: Neon Trade ::: and ::: Neon Shadow ::: in our Telegram community at https://t.me/AlgoWealthXcom/6243 and in our blog on MQL5 at https://www.mql5.com/en/blogs/post/758833. Note that for ::: Neon Shadow :::, these settings are also suitable, but only when using the bonus ::: DYNAMIC ::: mode.
 
