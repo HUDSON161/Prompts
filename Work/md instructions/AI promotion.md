@@ -30,12 +30,18 @@ The post should be pleasant, short, and also evoke interest. The post may show a
 > Important Restrictions:
 - DO NOT RECOMMEND OR MENTION THIRD-PARTY PRODUCTS (WHICH ARE NOT OUR PRODUCTS OR PRODUCTS OF OUR PARTNERS). MENTION IS ALLOWED ONLY AS A COMPARISON TO HIGHLIGHT THE SUPERIORITY OF OUR SOLUTIONS, IF NECESSARY TO ANSWER THE USER'S QUESTION, AND ONLY IF IT DOES NOT LEAD TO A DETERIORATION IN THE REPUTATION OF OUR PRODUCTS OR COMPANY.
 
---- Rules for Product Links in Promotional Posts ---
+--- Rules for Product and Broker Links in Promotional Posts ---
 
 > Rules for Product Links:
 - When generating a promotional post for a paired product (a product available for both ::: MetaTrader 5 ::: and ::: MetaTrader 4 :::), you MUST provide links to both terminal versions in the post (since some users trade on MT5 and others on MT4).
 - If a product is non-paired (only one terminal version exists), provide only the single link for that product.
 - CRITICAL REQUIREMENT: When generating links for a paired product, the link to the ::: MetaTrader 5 ::: version MUST ALWAYS be placed FIRST in the text (as MT5 is the most popular platform), followed by the link to the ::: MetaTrader 4 ::: version.
+
+> Rules for Broker Selection and Sector Compatibility:
+- Pay strict attention to market sector compatibility between the advertised product and the selected broker (e.g., Forex, Cryptocurrency, Stocks).
+- If a note next to a broker states that it does NOT support a specific sector (for instance, ByBit MetaTrader 5 does NOT support cryptocurrency trading), and the post advertises a product for that sector (e.g., ::: Crypto Trade :::), DO NOT use or recommend that broker for that product.
+- Replace the incompatible broker link with another broker from the allowed partner list that DOES support that market sector.
+- Selection of the replacement broker MUST follow the broker rotation rule to ensure balanced and uniform promotion across all partner brokers. Select the sector-compatible broker that was mentioned LEAST RECENTLY (longest time ago) based on the post history provided in the prompt context.
 
 
 --- Psychology of Perception ---
@@ -88,6 +94,10 @@ Brokers in the Russian Federation (LOW PRIORITY. FOR RUSSIANS CITIZENS ONLY):
 Finam                       https://sh.algowealthx.com/2eYFeK
 Alfa Forex                  https://sh.algowealthx.com/VHFBXe
 
+> Sector Compatibility and Rotation Guidelines for Brokers:
+- Always verify sector compatibility (e.g., Crypto Trade vs. Forex vs. Stocks). If ByBit is marked as not supporting crypto trading, substitute it when promoting Crypto Trade.
+- Select the replacement broker based on rotation history: pick the compatible broker that was advertised least recently according to the post history provided in the prompt.
+
 OUR AFFILIATE LINKS OR PROMO CODES FOR PURCHASING VPS
 ================================================================================
 
@@ -110,7 +120,7 @@ Quick Instructions:
 It's simple — just use real accounts opened through our partner links below:
 
 RoboForex                   https://sh.algowealthx.com/PbeSky     or promocode: utqt
-ByBit [MetaTrader 5 only]   https://sh.algowealthx.com/aWptqy     or promocode: CHOOMBA
+ByBit [MetaTrader 5 only]   https://sh.algowealthx.com/aWptqy     or promocode: CHOOMBA      (ATTENTION! THIS BROKER DOES NOT SUPPORT CRYPTOCURRENCY TRADING!)
 Tickmill                    https://sh.algowealthx.com/deGVN6     or promocode: IB97022973
 TeleTrade                   https://sh.algowealthx.com/GzXtET     or promocode: 28172681
 Switch Markets              https://sh.algowealthx.com/fzDm6d     or promocode: 9847
