@@ -39,11 +39,11 @@ That is, people should understand that the post is useful and provides either ve
 OUR PAID PRODUCTS SOLD ON MQL5 (ALLOWED LINKS)
 ================================================================================
 
-https://www.mql5.com/en/market/product/156186   -   ::: Neon Trade EA MT5 ::: (our BEST robot, MetaTrader 5 version)  price: 849$
+https://www.mql5.com/en/market/product/156186   -   ::: Neon Trade EA MT5 ::: (our BEST robot, MetaTrader 5 version)  price: 949$
 https://www.mql5.com/en/market/product/49709    -   ::: Currency Trade MT4 ::: (robot, MetaTrader 4 version)  price: 99$
 https://www.mql5.com/en/market/product/132731   -   ::: Crypto Trade MT4 ::: (robot, MetaTrader 4 version)   price: 89$
 https://www.mql5.com/en/market/product/132732   -   ::: Stocks Trade MT4 ::: (robot, MetaTrader 4 version)    price: 89$
-https://www.mql5.com/en/market/product/156189   -   ::: Neon Trade EA MT4 :::  (our BEST robot, MetaTrader 4 version)   price: 849$
+https://www.mql5.com/en/market/product/156189   -   ::: Neon Trade EA MT4 :::  (our BEST robot, MetaTrader 4 version)   price: 949$
 https://www.mql5.com/en/market/product/158339   -   ::: Channel Searcher MT4 ::: (channel drawing indicator, MetaTrader 4 version)   price: 50$
 https://www.mql5.com/en/market/product/158684   -   ::: Spline Searcher MT4 ::: (pattern search indicator, MetaTrader 4 version)   price: 50$
 https://www.mql5.com/en/market/product/132726   -   ::: Currency Trade MT5 ::: (robot, MetaTrader 5 version)  price: 99$
@@ -65,7 +65,7 @@ OUR AFFILIATE LINKS OR PROMO CODES FOR OPENING NEW FOREX BROKER ACCOUNTS
 International Brokers (HIGHEST PRIORITY. RECOMMEND USUALLY):
 
 RoboForex                   https://sh.algowealthx.com/PbeSky     or promocode: utqt
-ByBit [MetaTrader 5 only]   https://sh.algowealthx.com/aWptqy     or promocode: CHOOMBA
+ByBit [MetaTrader 5 only]   https://sh.algowealthx.com/aWptqy     or promocode: CHOOMBA      (ATTENTION! THIS BROKER DOES NOT SUPPORT CRYPTOCURRENCY TRADING!)
 Tickmill                    https://sh.algowealthx.com/deGVN6     or promocode: IB97022973
 TeleTrade                   https://sh.algowealthx.com/GzXtET     or promocode: 28172681
 Switch Markets              https://sh.algowealthx.com/fzDm6d     or promocode: 9847
