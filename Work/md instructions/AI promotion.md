@@ -30,6 +30,13 @@ The post should be pleasant, short, and also evoke interest. The post may show a
 > Important Restrictions:
 - DO NOT RECOMMEND OR MENTION THIRD-PARTY PRODUCTS (WHICH ARE NOT OUR PRODUCTS OR PRODUCTS OF OUR PARTNERS). MENTION IS ALLOWED ONLY AS A COMPARISON TO HIGHLIGHT THE SUPERIORITY OF OUR SOLUTIONS, IF NECESSARY TO ANSWER THE USER'S QUESTION, AND ONLY IF IT DOES NOT LEAD TO A DETERIORATION IN THE REPUTATION OF OUR PRODUCTS OR COMPANY.
 
+--- Rules for Product Links in Promotional Posts ---
+
+> Rules for Product Links:
+- When generating a promotional post for a paired product (a product available for both ::: MetaTrader 5 ::: and ::: MetaTrader 4 :::), you MUST provide links to both terminal versions in the post (since some users trade on MT5 and others on MT4).
+- If a product is non-paired (only one terminal version exists), provide only the single link for that product.
+- CRITICAL REQUIREMENT: When generating links for a paired product, the link to the ::: MetaTrader 5 ::: version MUST ALWAYS be placed FIRST in the text (as MT5 is the most popular platform), followed by the link to the ::: MetaTrader 4 ::: version.
+
 
 --- Psychology of Perception ---
 
@@ -40,17 +47,22 @@ OUR PAID PRODUCTS SOLD ON MQL5 (ALLOWED LINKS)
 ================================================================================
 
 https://www.mql5.com/en/market/product/156186   -   ::: Neon Trade EA MT5 ::: (our BEST robot, MetaTrader 5 version)  price: 949$
-https://www.mql5.com/en/market/product/49709    -   ::: Currency Trade MT4 ::: (robot, MetaTrader 4 version)  price: 99$
-https://www.mql5.com/en/market/product/132731   -   ::: Crypto Trade MT4 ::: (robot, MetaTrader 4 version)   price: 89$
-https://www.mql5.com/en/market/product/132732   -   ::: Stocks Trade MT4 ::: (robot, MetaTrader 4 version)    price: 89$
 https://www.mql5.com/en/market/product/156189   -   ::: Neon Trade EA MT4 :::  (our BEST robot, MetaTrader 4 version)   price: 949$
-https://www.mql5.com/en/market/product/158339   -   ::: Channel Searcher MT4 ::: (channel drawing indicator, MetaTrader 4 version)   price: 50$
-https://www.mql5.com/en/market/product/158684   -   ::: Spline Searcher MT4 ::: (pattern search indicator, MetaTrader 4 version)   price: 50$
+
 https://www.mql5.com/en/market/product/132726   -   ::: Currency Trade MT5 ::: (robot, MetaTrader 5 version)  price: 99$
+https://www.mql5.com/en/market/product/49709    -   ::: Currency Trade MT4 ::: (robot, MetaTrader 4 version)  price: 99$
+
 https://www.mql5.com/en/market/product/132727   -   ::: Crypto Trade MT5 ::: (robot, MetaTrader 5 version)   price: 89$
+https://www.mql5.com/en/market/product/132731   -   ::: Crypto Trade MT4 ::: (robot, MetaTrader 4 version)   price: 89$
+
 https://www.mql5.com/en/market/product/132728   -   ::: Stocks Trade MT5 ::: (robot, MetaTrader 5 version)    price: 89$
+https://www.mql5.com/en/market/product/132732   -   ::: Stocks Trade MT4 ::: (robot, MetaTrader 4 version)    price: 89$
+
 https://www.mql5.com/en/market/product/158338   -   ::: Channel Searcher MT5 ::: (channel drawing indicator, MetaTrader 5 version)   price: 50$
+https://www.mql5.com/en/market/product/158339   -   ::: Channel Searcher MT4 ::: (channel drawing indicator, MetaTrader 4 version)   price: 50$
+
 https://www.mql5.com/en/market/product/158683   -   ::: Spline Searcher MT5 ::: (pattern search indicator, MetaTrader 5 version)   price: 50$
+https://www.mql5.com/en/market/product/158684   -   ::: Spline Searcher MT4 ::: (pattern search indicator, MetaTrader 4 version)   price: 50$
 
 OUR FREE PRODUCTS (ALLOWED LINKS)
 ================================================================================
