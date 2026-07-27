@@ -37,14 +37,10 @@ OUR PAID PRODUCTS SOLD ON MQL5 (ALLOWED LINKS)
 ================================================================================
 
 https://www.mql5.com/en/market/product/156186   -   ::: Neon Trade EA MT5 ::: (our BEST robot, MetaTrader 5 version)  price: 950$
-https://www.mql5.com/en/market/product/49709    -   ::: Currency Trade MT4 ::: (robot, MetaTrader 4 version)  price: 99$
-https://www.mql5.com/en/market/product/132731   -   ::: Crypto Trade MT4 ::: (robot, MetaTrader 4 version)   price: 89$
 https://www.mql5.com/en/market/product/132732   -   ::: Stocks Trade MT4 ::: (robot, MetaTrader 4 version)    price: 89$
 https://www.mql5.com/en/market/product/156189   -   ::: Neon Trade EA MT4 :::  (our BEST robot, MetaTrader 4 version)   price: 950$
 https://www.mql5.com/en/market/product/158339   -   ::: Channel Searcher MT4 ::: (channel drawing indicator, MetaTrader 4 version)   price: 50$
 https://www.mql5.com/en/market/product/158684   -   ::: Spline Searcher MT4 ::: (pattern search indicator, MetaTrader 4 version)   price: 50$
-https://www.mql5.com/en/market/product/132726   -   ::: Currency Trade MT5 ::: (robot, MetaTrader 5 version)  price: 99$
-https://www.mql5.com/en/market/product/132727   -   ::: Crypto Trade MT5 ::: (robot, MetaTrader 5 version)   price: 89$
 https://www.mql5.com/en/market/product/132728   -   ::: Stocks Trade MT5 ::: (robot, MetaTrader 5 version)    price: 89$
 https://www.mql5.com/en/market/product/158338   -   ::: Channel Searcher MT5 ::: (channel drawing indicator, MetaTrader 5 version)   price: 50$
 https://www.mql5.com/en/market/product/158683   -   ::: Spline Searcher MT5 ::: (pattern search indicator, MetaTrader 5 version)   price: 50$
