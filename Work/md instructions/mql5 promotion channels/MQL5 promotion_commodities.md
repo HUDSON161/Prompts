@@ -26,6 +26,7 @@ The post should be pleasant, short, and also evoke interest. The post may show a
 
 > Important Restrictions:
 - DO NOT RECOMMEND OR MENTION THIRD-PARTY PRODUCTS (WHICH ARE NOT OUR PRODUCTS OR PRODUCTS OF OUR PARTNERS). MENTION IS ALLOWED ONLY AS A COMPARISON TO HIGHLIGHT THE SUPERIORITY OF OUR SOLUTIONS, IF NECESSARY TO ANSWER THE USER'S QUESTION, AND ONLY IF IT DOES NOT LEAD TO A DETERIORATION IN THE REPUTATION OF OUR PRODUCTS OR COMPANY.
+- ALWAYS PUBLISH LINKS FOR BOTH VERSIONS (MT5 AND MT4) FOR PAIRED PRODUCTS. THE MT5 VERSION LINK MUST ALWAYS BE PLACED FIRST, FOLLOWED BY THE MT4 VERSION LINK. THIS ORDER IS MANDATORY BECAUSE METATRADER 5 IS MORE POPULAR, BUT PROVIDING BOTH LINKS ENSURES COVERAGE FOR ALL USERS AND MAXIMIZES SALES.
 
 
 --- Psychology of Perception ---
@@ -36,197 +37,16 @@ That is, people should understand that the post is useful and provides either ve
 OUR PAID PRODUCTS SOLD ON MQL5 (ALLOWED LINKS)
 ================================================================================
 
-https://www.mql5.com/en/market/product/158339   -   ::: Channel Searcher MT4 ::: (channel drawing indicator, MetaTrader 4 version)   price: 50$
-https://www.mql5.com/en/market/product/158684   -   ::: Spline Searcher MT4 ::: (pattern search indicator, MetaTrader 4 version)   price: 50$
 https://www.mql5.com/en/market/product/158338   -   ::: Channel Searcher MT5 ::: (channel drawing indicator, MetaTrader 5 version)   price: 50$
+https://www.mql5.com/en/market/product/158339   -   ::: Channel Searcher MT4 ::: (channel drawing indicator, MetaTrader 4 version)   price: 50$
+
 https://www.mql5.com/en/market/product/158683   -   ::: Spline Searcher MT5 ::: (pattern search indicator, MetaTrader 5 version)   price: 50$
+https://www.mql5.com/en/market/product/158684   -   ::: Spline Searcher MT4 ::: (pattern search indicator, MetaTrader 4 version)   price: 50$
 
 
 
 PRODUCT DESCRIPTIONS
 ================================================================================
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::: Neon Trade EA :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::: Neon Trade ::: — a cutting-edge trading solution that opens the door to financial freedom and the highest level of trading
-
-I aimed to create a unique trading solution capable of meeting the needs of any trader, regardless of their goals and objectives. The main idea was to combine machine learning with advanced trading techniques in such a way as to maximize the benefits of their combined use. The system is suitable both for growing small deposits over 1–2 months and for maximally long-term investing for years ahead.
-
-> ::: Neon Trade ::: Usage Options:
-
-- Growing a small deposit from $300 using aggressive techniques (for those who consider increased risk justified and necessary and are not afraid to take risks)
-- Long-term trading for serious and experienced investors who value the safety of their assets and the stability of performance over the longest distance.
-- Passing prop firm challenges (FTMO, Darwinex). I will help you configure everything according to your requirements and explain how to minimize risk and get funding as quickly as possible.
-
-> Advantages:
-
-Versatility: Suitable for any task and contains many auxiliary trading techniques to solve each specific task.
-Multicurrency: The system was designed as a unique tool that doesn't care which instrument to trade.
-Dynamic adaptation: Continuous updates of settings via remote server guarantee timely response to changing market conditions. Settings are manually selected based on machine learning results.
-Manual settings selection: All settings undergo thorough manual selection. I personally analyze machine learning results and select only the most effective configurations for trading.
-Convenience: Installation on a single — any — chart. Simply connect the API in the terminal and launch the robot.
-Reliability: The robot picks up its positions and continues operation during terminal restarts and other emergency situations. Since the robot works by bars, short-term equipment shutdowns will not have a critical effect on trading.
-Risk control: Risks are automatically distributed across currency pairs. The system strives to maintain the required profitability percentage and recalculates risks on the fly.
-Drawdown minimization: Thanks to hedging, the system reduces drawdowns through trading on different currency pairs and timeframes.
-Delay resistance: The robot performs trading operations when a new bar appears, thanks to which it trades equally effectively on both demo and real accounts.
-Scalability: Ability to trade virtually any trading instruments with unparalleled quality thanks to carefully selected settings.
-Flexibility: Wide range of customization options: selection of currency pairs, operating modes, trading directions (long/short).
-
-> Recommendations:
-
-- Optimal deposit: from $300 (the larger the deposit, the better, but this is not a mandatory requirement)
-- Account type: hedge (since multicurrency trading on different timeframes is used simultaneously)
-- Brokers for trading: you can use any reliable broker (choose those with lower swaps and spreads)
-- Preparation for launch: be sure to ask questions in the group chat — moderators will help you configure everything correctly taking into account your requirements to achieve the best results.
-
-> How it works — in simple terms:
-
-Pillar 1: Machine learning and manual settings selection
-The main task of any trading robot is to predict future price movements. The quality of these predictions directly affects the profitability of trades. Most robots using machine learning work on an outdated principle: all computations happen directly on the VPS where both trading and data processing occur simultaneously. This creates two problems:
-- It limits the capabilities of machine learning.
-- It reduces trading quality due to VPS load.
-
-My approach is different:
-- All computations are performed on powerful servers where I conduct deep machine learning.
-- MetaTrader is used only for trading, not calculations — that's what it was created for.
-- I manually select the best settings based on learning results and upload them to the synchronization server.
-
-The robot periodically loads fresh optimizations from the server and updates settings "on the fly". This approach provides two key advantages:
-- Continuous increase in computational power, hence the robot trades with ever better quality.
-- Possibility of full-fledged multicurrency learning, which other robots cannot handle due to technical limitations.
-
-Pillar 2: Diversification
-Diversification is one of the most powerful methods for increasing trading stability. It allows you to:
-- Smooth out the profit curve.
-- Reduce drawdowns.
-- Safely increase trade frequency.
-
-Most robots trade one or several predetermined currency pairs. Such "diversification" is minimal and has almost no effect. My robot fixes this quite easily:
-- It trades all currency pairs simultaneously, maximally enhancing the diversification effect.
-- It automatically distributes trade volume so that each pair contributes evenly.
-This eliminates the situation where all risk is concentrated on a single instrument. The distribution system works fully automatically.
-
-Pillar 3: Portfolio trading and additional modes
-When we distribute trading volumes among many currency pairs and chart periods, it becomes possible to apply portfolio effects — something like "fine-tuning" the strategy. This means exactly the following:
-- You can enhance hedging by considering the currency composition in trading instruments.
-- You can amplify the influence of individual currencies or, conversely, compensate for it.
-- You can enable additional trading modes.
-
-Among these modes are:
-- Martingale.
-- Averaging.
-- Long-term position holding.
-- Trading on positive swaps.
-- Advanced filters.
-
-When trading a large number of currency pairs simultaneously, such approaches become much safer, since risks are distributed across the entire portfolio. All additional modes are described in the available documentation. A link to it can be found at the very beginning.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::: Currency Trade (MT4+MT5) :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::: Currency Trade ::: — a sector-specific trading robot powered by machine learning
-
-We present to you the most effective portfolio-based approach combined with a strictly limited sector of trading instruments. The primary goal is to enable anyone to trade the core 28 major currency pairs simultaneously without prior preparation. We aim to trade as many of the most stable forex pairs as possible at the same time to ensure maximum deposit safety while achieving substantial returns over a relatively short period.
-
-> Who is this robot for?:
-
-- For those who want to simply attach the robot to a chart and earn profits quickly using the 28 major currency pairs as the core asset. (The robot works immediately with no prior setup required.)
-- If you're interested in major forex pairs and believe in these assets, you have a good chance of generating returns over the medium or long term. (This depends on many factors.)
-- For traders already active in the 28 major currency pairs who want to try new approaches or diversify their risk exposure.
-
-> Key Features and Advantages:
-
-Sector Specialization: Trading is focused exclusively on one sector — the 28 major currency pairs.
-AI Training on Remote Servers: Machine learning is performed on powerful remote servers. Optimization results are manually selected by me on a regular basis and embedded directly into the robot.
-Portfolio Diversification: Within the major forex sector, the robot distributes risk across multiple instruments and timeframes — this approach automatically reduces drawdowns.
-One-Click Setup: Simply attach the Expert Advisor to any currency pair chart (e.g., EURUSD) — it will automatically detect all available instruments in the sector and begin trading. (Additional configuration may be required in some cases.)
-Flexible Risk Management: Automatic lot sizing adapts to your deposit size while preserving the robot’s annual profitability target.
-Additional Trading Modes: Optional modes that are safer due to diversification. Risk is not concentrated in a single trading instrument.
-
-> Recommendations:
-
-- Minimum deposit: $100.
-- Account type: Hedging (recommended, but Netting is also supported).
-- Recommended brokers: virtually all brokers offer these instruments.
-- Before launch: Always test in Strategy Tester! Ensure your broker provides the required instruments.
-- Instrument naming setup: If your broker uses prefixes/postfixes (e.g., fx.EURUSD), specify them in the robot’s parameters or ask the seller for assistance.
-
-> How It Works — In Simple Terms:
-
-My servers analyze the behavior of all 28 major currency pairs, identify the most stable reversal patterns, and optimize parameters for the current market phase. The best results are then “stitched” into a single build — that’s your Expert Advisor. Instead of trading just one instrument, the robot trades all available forex pairs simultaneously within the embedded build: EURUSD, GBPUSD, NZDCHF, etc. This enhances trading reliability and reduces drawdown. Both the machine learning quality and the instrument lineup will continuously improve based on current market conditions.
-
---- Input Parameters for Advanced Users ---
-
-Category - Parameter - Description
-
---- Instrument Naming Adaptation ---
-Symbol Prefix - String that precedes the instrument name (e.g., «!» or «_»).
-Symbol Postfix - String that follows the instrument name (e.g., «!» or «_»).
-
---- Time Zone ---
-Source Shift Hours - Time offset relative to RoboForex quotes, which are used as the training reference. For most brokers, this value is 0.
-
---- Lot and Risk Management ---
-Auto Lot - Enables automatic volume adaptation to deposit size. When disabled, the robot behaves as if using a fixed lot.
-Middle % of Delta Equity Per M1 Bar (For ONE! Symbol) - Main risk control parameter. Higher values result in larger position sizes.
-Deposit Percent [1–100] - Percentage of deposit allocated to this robot (only active when Auto Lot is enabled). Useful when running multiple EAs simultaneously.
-
---- Martingale ---
-Lot Mode - Modes: SIMPLE_LOT (default) and MARTINGALE.
-Martin Multiplier Steps Max - Maximum number of losing trades whose lots are summed to calculate the next position size. Higher values increase both potential profit and risk.
-
---- Loss Holding ---
-Linearization - Waits until a losing position becomes profitable.
-Minutes Hold For Linearization - Maximum waiting time (in minutes). After expiration, the position may be closed based on a new opposite signal.
-
---- Settings Validity ---
-Days To Future - Number of days after optimization ends during which new positions are allowed. The last optimization date is displayed in the EA’s graphical interface.
-
---- Repurchase Effects ---
-Effect - Selects the operating mode: from standard trading to advanced portfolio-based filters and averaging.
-First % Of Price Step - Minimum distance (as % of current price) between entry prices of adjacent trades during repurchase/selling. Prevents opening positions in identical price zones.
-Next Step Multiplier - Multiplier that adjusts the step between subsequent trades. A value of 1.0 keeps the step unchanged.
-
---- Effect Types ---
-• NO_EFFECT — standard trading.
-• WEAKENING_OF_THE_CURRENCIES — reduces the impact of identical currencies to lower drawdowns.
-• COLLECTIVE_REINFORCEMENT — amplifies the influence of identical currencies.
-• SAFE_REPURCHASE — hybrid averaging across multiple timeframes (without increasing risk).
-• CLASSIC_REPURCHASE — classic averaging (all positions closed in a “fan” to profit).
-• SAFE_REPURCHASE_WEAKENING / REINFORCEMENT — combinations of SAFE_REPURCHASE with currency weakening/reinforcement.
-• CLASSIC_REPURCHASE_WEAKENING / REINFORCEMENT — same for CLASSIC_REPURCHASE.
-• COST_MINIMIZATION — universal mode for HEDGING and NETTING: one position per instrument, closed based on the best signal from any timeframe.
-
---- Filters and Protection ---
-Stop Loss % Of Average M1 - Stop-loss as a % of the average M1 bar size for the current currency pair (not in pips or «_Point»). Disabled when set to 0.
-Take Profit % Of Average M1 - Take-profit as a % of the average M1 bar size for the current currency pair. Disabled when set to 0.
-MAX Spread % Of Average M1 - Maximum allowed spread in «_Point» units. If exceeded, no trades are opened or closed.
-Swaps - Trades only in directions with positive swaps — you earn even while holding a position, plus other variations.
-
---- Other ---
-Additional Profit Per Lot - Adds mandatory profit to positions in Linearization and REPURCHASE modes — compensates for commissions and trading costs. Profit is calculated per one lot of the trading instrument.
-
---- Instrument and Currency Filters ---
-Include Instruments - Trade ONLY the specified instruments. (e.g., «EURUSD,CHFJPY»).
-Exclude Instruments - Exclude the specified instruments from trading. (e.g., «EURUSD,CHFJPY»). All other instruments will be traded.
-Exclude Currencies - Exclude all instruments containing the specified currencies (e.g., «EUR,CHF»). All other instruments will be traded.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::: Stocks Trade (MT4+MT5) :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Same as ::: Currency Trade :::, but for trading US stocks
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::: Crypto Trade (MT4+MT5) :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Same as ::: Currency Trade :::, but for trading stablecoins (BTC, ETH, and others)
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::: Channel Searcher (MT4+MT5) :::
@@ -390,14 +210,7 @@ Relative Lengthening Right - Relative rightward extension of the line.
 Accuracy - Minimum approximation accuracy (higher = stricter filter).
 
 
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::: Neon Shadow EA (MT4+MT5) :::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::: Neon Shadow EA ::: — the MQL5 Market edition of the free ::: Neon Trade EA :::
-
-> Strategic Positioning:
+FORMATTING TIPS FOR PROMOTIONAL POSTS (PROMOTION ETHICS)ng:
 
 For the version published on the MQL5 Market, our official recommendation is to use it primarily in ::: STATIC ::: mode
 

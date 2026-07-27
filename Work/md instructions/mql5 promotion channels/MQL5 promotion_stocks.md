@@ -26,6 +26,7 @@ The post should be pleasant, short, and also evoke interest. The post may show a
 
 > Important Restrictions:
 - DO NOT RECOMMEND OR MENTION THIRD-PARTY PRODUCTS (WHICH ARE NOT OUR PRODUCTS OR PRODUCTS OF OUR PARTNERS). MENTION IS ALLOWED ONLY AS A COMPARISON TO HIGHLIGHT THE SUPERIORITY OF OUR SOLUTIONS, IF NECESSARY TO ANSWER THE USER'S QUESTION, AND ONLY IF IT DOES NOT LEAD TO A DETERIORATION IN THE REPUTATION OF OUR PRODUCTS OR COMPANY.
+- ALWAYS PUBLISH LINKS FOR BOTH VERSIONS (MT5 AND MT4) FOR PAIRED PRODUCTS. THE MT5 VERSION LINK MUST ALWAYS BE PLACED FIRST, FOLLOWED BY THE MT4 VERSION LINK. THIS ORDER IS MANDATORY BECAUSE METATRADER 5 IS MORE POPULAR, BUT PROVIDING BOTH LINKS ENSURES COVERAGE FOR ALL USERS AND MAXIMIZES SALES.
 
 
 --- Psychology of Perception ---
@@ -37,13 +38,16 @@ OUR PAID PRODUCTS SOLD ON MQL5 (ALLOWED LINKS)
 ================================================================================
 
 https://www.mql5.com/en/market/product/156186   -   ::: Neon Trade EA MT5 ::: (our BEST robot, MetaTrader 5 version)  price: 950$
-https://www.mql5.com/en/market/product/132732   -   ::: Stocks Trade MT4 ::: (robot, MetaTrader 4 version)    price: 89$
 https://www.mql5.com/en/market/product/156189   -   ::: Neon Trade EA MT4 :::  (our BEST robot, MetaTrader 4 version)   price: 950$
-https://www.mql5.com/en/market/product/158339   -   ::: Channel Searcher MT4 ::: (channel drawing indicator, MetaTrader 4 version)   price: 50$
-https://www.mql5.com/en/market/product/158684   -   ::: Spline Searcher MT4 ::: (pattern search indicator, MetaTrader 4 version)   price: 50$
+
 https://www.mql5.com/en/market/product/132728   -   ::: Stocks Trade MT5 ::: (robot, MetaTrader 5 version)    price: 89$
+https://www.mql5.com/en/market/product/132732   -   ::: Stocks Trade MT4 ::: (robot, MetaTrader 4 version)    price: 89$
+
 https://www.mql5.com/en/market/product/158338   -   ::: Channel Searcher MT5 ::: (channel drawing indicator, MetaTrader 5 version)   price: 50$
+https://www.mql5.com/en/market/product/158339   -   ::: Channel Searcher MT4 ::: (channel drawing indicator, MetaTrader 4 version)   price: 50$
+
 https://www.mql5.com/en/market/product/158683   -   ::: Spline Searcher MT5 ::: (pattern search indicator, MetaTrader 5 version)   price: 50$
+https://www.mql5.com/en/market/product/158684   -   ::: Spline Searcher MT4 ::: (pattern search indicator, MetaTrader 4 version)   price: 50$
 
 OUR FREE PRODUCTS (ALLOWED LINKS)
 ================================================================================
@@ -320,25 +324,25 @@ When trading a large number of currency pairs simultaneously, such approaches be
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::: Currency Trade (MT4+MT5) :::
+::: Stocks Trade (MT4+MT5) :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: Currency Trade ::: — a sector-specific trading robot powered by machine learning
+::: Stocks Trade ::: — a sector-specific trading robot powered by machine learning
 
-We present to you the most effective portfolio-based approach combined with a strictly limited sector of trading instruments. The primary goal is to enable anyone to trade the core 28 major currency pairs simultaneously without prior preparation. We aim to trade as many of the most stable forex pairs as possible at the same time to ensure maximum deposit safety while achieving substantial returns over a relatively short period.
+We present to you the most effective portfolio-based approach combined with a strictly limited sector of trading instruments. The primary goal is to enable anyone to trade US stocks and stock indices simultaneously without prior preparation. We aim to trade as many of the most stable US stocks as possible at the same time to ensure maximum deposit safety while achieving substantial returns over a relatively short period.
 
 > Who is this robot for?:
 
-- For those who want to simply attach the robot to a chart and earn profits quickly using the 28 major currency pairs as the core asset. (The robot works immediately with no prior setup required.)
-- If you're interested in major forex pairs and believe in these assets, you have a good chance of generating returns over the medium or long term. (This depends on many factors.)
-- For traders already active in the 28 major currency pairs who want to try new approaches or diversify their risk exposure.
+- For those who want to simply attach the robot to a chart and earn profits quickly using US stocks as the core asset. (The robot works immediately with no prior setup required.)
+- If you're interested in US stocks and believe in these assets, you have a good chance of generating returns over the medium or long term. (This depends on many factors.)
+- For traders already active in US equities who want to try new approaches or diversify their risk exposure.
 
 > Key Features and Advantages:
 
-Sector Specialization: Trading is focused exclusively on one sector — the 28 major currency pairs.
+Sector Specialization: Trading is focused exclusively on one sector — US stocks and stock indices.
 AI Training on Remote Servers: Machine learning is performed on powerful remote servers. Optimization results are manually selected by me on a regular basis and embedded directly into the robot.
-Portfolio Diversification: Within the major forex sector, the robot distributes risk across multiple instruments and timeframes — this approach automatically reduces drawdowns.
-One-Click Setup: Simply attach the Expert Advisor to any currency pair chart (e.g., EURUSD) — it will automatically detect all available instruments in the sector and begin trading. (Additional configuration may be required in some cases.)
+Portfolio Diversification: Within the stocks sector, the robot distributes risk across multiple instruments and timeframes — this approach automatically reduces drawdowns.
+One-Click Setup: Simply attach the Expert Advisor to any stock chart (e.g., AAPL, NVDA, SPY) — it will automatically detect all available instruments in the sector and begin trading. (Additional configuration may be required in some cases.)
 Flexible Risk Management: Automatic lot sizing adapts to your deposit size while preserving the robot’s annual profitability target.
 Additional Trading Modes: Optional modes that are safer due to diversification. Risk is not concentrated in a single trading instrument.
 
@@ -346,13 +350,13 @@ Additional Trading Modes: Optional modes that are safer due to diversification. 
 
 - Minimum deposit: $100.
 - Account type: Hedging (recommended, but Netting is also supported).
-- Recommended brokers: virtually all brokers offer these instruments.
+- Recommended brokers: brokers offering US stock CFDs and stock indices.
 - Before launch: Always test in Strategy Tester! Ensure your broker provides the required instruments.
-- Instrument naming setup: If your broker uses prefixes/postfixes (e.g., fx.EURUSD), specify them in the robot’s parameters or ask the seller for assistance.
+- Instrument naming setup: If your broker uses prefixes/postfixes (e.g., #AAPL), specify them in the robot’s parameters or ask the seller for assistance.
 
 > How It Works — In Simple Terms:
 
-My servers analyze the behavior of all 28 major currency pairs, identify the most stable reversal patterns, and optimize parameters for the current market phase. The best results are then “stitched” into a single build — that’s your Expert Advisor. Instead of trading just one instrument, the robot trades all available forex pairs simultaneously within the embedded build: EURUSD, GBPUSD, NZDCHF, etc. This enhances trading reliability and reduces drawdown. Both the machine learning quality and the instrument lineup will continuously improve based on current market conditions.
+My servers analyze the behavior of US stocks and indices, identify the most stable reversal patterns, and optimize parameters for the current market phase. The best results are then “stitched” into a single build — that’s your Expert Advisor. Instead of trading just one instrument, the robot trades all available stock instruments simultaneously within the embedded build. This enhances trading reliability and reduces drawdown. Both the machine learning quality and the instrument lineup will continuously improve based on current market conditions.
 
 --- Input Parameters for Advanced Users ---
 
@@ -397,8 +401,8 @@ Next Step Multiplier - Multiplier that adjusts the step between subsequent trade
 • COST_MINIMIZATION — universal mode for HEDGING and NETTING: one position per instrument, closed based on the best signal from any timeframe.
 
 --- Filters and Protection ---
-Stop Loss % Of Average M1 - Stop-loss as a % of the average M1 bar size for the current currency pair (not in pips or «_Point»). Disabled when set to 0.
-Take Profit % Of Average M1 - Take-profit as a % of the average M1 bar size for the current currency pair. Disabled when set to 0.
+Stop Loss % Of Average M1 - Stop-loss as a % of the average M1 bar size for the current stock/index (not in pips or «_Point»). Disabled when set to 0.
+Take Profit % Of Average M1 - Take-profit as a % of the average M1 bar size for the current stock/index. Disabled when set to 0.
 MAX Spread % Of Average M1 - Maximum allowed spread in «_Point» units. If exceeded, no trades are opened or closed.
 Swaps - Trades only in directions with positive swaps — you earn even while holding a position, plus other variations.
 
@@ -406,21 +410,9 @@ Swaps - Trades only in directions with positive swaps — you earn even while ho
 Additional Profit Per Lot - Adds mandatory profit to positions in Linearization and REPURCHASE modes — compensates for commissions and trading costs. Profit is calculated per one lot of the trading instrument.
 
 --- Instrument and Currency Filters ---
-Include Instruments - Trade ONLY the specified instruments. (e.g., «EURUSD,CHFJPY»).
-Exclude Instruments - Exclude the specified instruments from trading. (e.g., «EURUSD,CHFJPY»). All other instruments will be traded.
-Exclude Currencies - Exclude all instruments containing the specified currencies (e.g., «EUR,CHF»). All other instruments will be traded.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::: Stocks Trade (MT4+MT5) :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Same as ::: Currency Trade :::, but for trading US stocks
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::: Crypto Trade (MT4+MT5) :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Same as ::: Currency Trade :::, but for trading stablecoins (BTC, ETH, and others)
+Include Instruments - Trade ONLY the specified instruments. (e.g., «AAPL,NVDA»).
+Exclude Instruments - Exclude the specified instruments from trading. (e.g., «AAPL,NVDA»). All other instruments will be traded.
+Exclude Currencies - Exclude all instruments containing the specified currencies. All other instruments will be traded.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

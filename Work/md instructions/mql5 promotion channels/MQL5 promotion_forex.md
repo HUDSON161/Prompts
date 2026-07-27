@@ -26,6 +26,7 @@ The post should be pleasant, short, and also evoke interest. The post may show a
 
 > Important Restrictions:
 - DO NOT RECOMMEND OR MENTION THIRD-PARTY PRODUCTS (WHICH ARE NOT OUR PRODUCTS OR PRODUCTS OF OUR PARTNERS). MENTION IS ALLOWED ONLY AS A COMPARISON TO HIGHLIGHT THE SUPERIORITY OF OUR SOLUTIONS, IF NECESSARY TO ANSWER THE USER'S QUESTION, AND ONLY IF IT DOES NOT LEAD TO A DETERIORATION IN THE REPUTATION OF OUR PRODUCTS OR COMPANY.
+- ALWAYS PUBLISH LINKS FOR BOTH VERSIONS (MT5 AND MT4) FOR PAIRED PRODUCTS. THE MT5 VERSION LINK MUST ALWAYS BE PLACED FIRST, FOLLOWED BY THE MT4 VERSION LINK. THIS ORDER IS MANDATORY BECAUSE METATRADER 5 IS MORE POPULAR, BUT PROVIDING BOTH LINKS ENSURES COVERAGE FOR ALL USERS AND MAXIMIZES SALES.
 
 
 --- Psychology of Perception ---
@@ -37,13 +38,17 @@ OUR PAID PRODUCTS SOLD ON MQL5 (ALLOWED LINKS)
 ================================================================================
 
 https://www.mql5.com/en/market/product/156186   -   ::: Neon Trade EA MT5 ::: (our BEST robot, MetaTrader 5 version)  price: 950$
-https://www.mql5.com/en/market/product/49709    -   ::: Currency Trade MT4 ::: (robot, MetaTrader 4 version)  price: 99$
 https://www.mql5.com/en/market/product/156189   -   ::: Neon Trade EA MT4 :::  (our BEST robot, MetaTrader 4 version)   price: 950$
-https://www.mql5.com/en/market/product/158339   -   ::: Channel Searcher MT4 ::: (channel drawing indicator, MetaTrader 4 version)   price: 50$
-https://www.mql5.com/en/market/product/158684   -   ::: Spline Searcher MT4 ::: (pattern search indicator, MetaTrader 4 version)   price: 50$
+
 https://www.mql5.com/en/market/product/132726   -   ::: Currency Trade MT5 ::: (robot, MetaTrader 5 version)  price: 99$
+https://www.mql5.com/en/market/product/49709    -   ::: Currency Trade MT4 ::: (robot, MetaTrader 4 version)  price: 99$
+
 https://www.mql5.com/en/market/product/158338   -   ::: Channel Searcher MT5 ::: (channel drawing indicator, MetaTrader 5 version)   price: 50$
+https://www.mql5.com/en/market/product/158339   -   ::: Channel Searcher MT4 ::: (channel drawing indicator, MetaTrader 4 version)   price: 50$
+
 https://www.mql5.com/en/market/product/158683   -   ::: Spline Searcher MT5 ::: (pattern search indicator, MetaTrader 5 version)   price: 50$
+https://www.mql5.com/en/market/product/158684   -   ::: Spline Searcher MT4 ::: (pattern search indicator, MetaTrader 4 version)   price: 50$
+
 
 OUR FREE PRODUCTS (ALLOWED LINKS)
 ================================================================================
@@ -411,19 +416,6 @@ Exclude Instruments - Exclude the specified instruments from trading. (e.g., «E
 Exclude Currencies - Exclude all instruments containing the specified currencies (e.g., «EUR,CHF»). All other instruments will be traded.
 
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::: Stocks Trade (MT4+MT5) :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Same as ::: Currency Trade :::, but for trading US stocks
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::: Crypto Trade (MT4+MT5) :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Same as ::: Currency Trade :::, but for trading stablecoins (BTC, ETH, and others)
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::: Channel Searcher (MT4+MT5) :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
