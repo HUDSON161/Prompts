@@ -63,6 +63,22 @@ https://www.mql5.com/en/market/product/156169   -   ::: Neon Shadow EA MT5 ::: (
 https://www.mql5.com/en/market/product/156172   -   ::: Neon Shadow EA MT4 ::: (robot, MetaTrader 4 version)   price: FREE
 
 
+OUR AI MARKET ANALYSIS CHANNELS AND GUIDES (ALLOWED LINKS)
+================================================================================
+
+Telegram Community Topic (All 4 AI Sectors):  https://t.me/AlgoWealthXcom/6600/6612
+Telegram AI Market Analysis Guide:            https://t.me/AlgoWealthXcom/6600/6612
+MQL5 AI Market Analysis Guide:               https://www.mql5.com/en/blogs/post/761398
+
+MQL5 Sectoral Channels:
+::: AI Stocks Analyse :::       https://www.mql5.com/en/channels/aistocksanalyse
+::: AI Crypto Analyse :::       https://www.mql5.com/en/channels/aicryptoanalyse
+::: AI Forex Analyse :::        https://www.mql5.com/en/channels/aiforexanalyse
+::: AI Commodities Analyse :::  https://www.mql5.com/en/channels/aicommoditiesanalyse
+::: AI Useful Tips For Novice ::: https://www.mql5.com/en/channels/aiusefultipsfornovice
+
+
+
 OUR AFFILIATE LINKS OR PROMO CODES FOR OPENING NEW FOREX BROKER ACCOUNTS
 ================================================================================
 
@@ -334,6 +350,105 @@ In these posts you will find the official .SET configuration files (presets) for
 Please note:
 - For ::: Neon Shadow :::, these settings are also suitable, but only when using the bonus ::: DYNAMIC ::: mode.
 - The settings are optimized for 28 currency pairs to ensure maximum versatility across any broker, and are compatible with both MetaTrader 4 and MetaTrader 5 versions of the robots.
+
+
+
+
+GUIDE AND CONCEPT FOR AI MARKET ANALYSIS CHANNELS (TELEGRAM AND MQL5)
+================================================================================
+
+guide link (Telegram):  https://t.me/AlgoWealthXcom/6600/6612
+guide link (MQL5):      https://www.mql5.com/en/blogs/post/761398
+
+GUIDE CONTENT AND CONCEPT OVERVIEW:
+
+In this guide you will find a comprehensive explanation of the AI analysis ecosystem used for trading decisions across different market sectors, available both as 5 dedicated channels on ::: mql5.com ::: and as an adapted unified stream inside our ::: Telegram ::: community.
+
+--------------------------------------------------
+Platform Format Differences: Telegram vs MQL5
+--------------------------------------------------
+
+> Architecture and Delivery Differences:
+- ::: mql5.com ::: Ecosystem: Represented by 5 separate dedicated channels: 4 sectoral channels (::: AI Stocks Analyse :::, ::: AI Crypto Analyse :::, ::: AI Forex Analyse :::, ::: AI Commodities Analyse :::) plus 1 specialized educational channel (::: AI Useful Tips For Novice :::).
+- ::: Telegram ::: Community Adaptation: All forecasts for the 4 market sectors (::: Stocks :::, ::: Crypto :::, ::: Forex :::, ::: Commodities :::) are published inside ONE single dedicated topic inside our supergroup community in a unified stream. The 5th channel (::: AI Useful Tips For Novice :::) is exclusive to ::: mql5.com :::.
+- Underlying Core Engine: Despite the structural delivery differences, the analytical algorithm, AI neural processing, chart timeframes, schedule, and analysis zones are 100% identical across both platforms.
+
+--------------------------------------------------
+Overview of the Market Sectors
+--------------------------------------------------
+
+Sector - Description - Channel Link
+Stocks - A sectoral forecast designed to assist in making trading decisions for US stocks, such as APPLE, TESLA, AMAZON, NVIDIA. - https://www.mql5.com/en/channels/aistocksanalyse
+Crypto - A sectoral forecast designed to assist in making trading decisions for the most popular cryptocurrencies and stablecoins, such as BTCUSD and ETHUSD. - https://www.mql5.com/en/channels/aicryptoanalyse
+Forex - A sectoral forecast designed to assist in making trading decisions for the most popular currency pairs, such as EURUSD, GBPUSD, and USDJPY. - https://www.mql5.com/en/channels/aiforexanalyse
+Commodities - A sectoral forecast designed to assist in making trading decisions for key commodity instruments, such as GOLD and OIL. - https://www.mql5.com/en/channels/aicommoditiesanalyse
+Useful Tips for Novice (MQL5 Exclusive) - A general channel designed to accelerate the onboarding of beginners into trading through adaptive advice, practical examples, and helpful hints. - https://www.mql5.com/en/channels/aiusefultipsfornovice
+
+--------------------------------------------------
+Unified Concept of the Sectoral Forecasts
+--------------------------------------------------
+
+The four sectors were created to provide everyone with an auxiliary tool for making decisions about trading specific instruments or market areas. Every category of traders has their favorite sectors and instrument preferences, which is exactly what is implemented by dividing assets into four distinct sectors.
+
+Decision-making is based on intraday considerations. The goal is to keep the trade holding duration minimal while maintaining a sufficient profitable delta. This scheme was chosen due to the popularity and high demand for this trading format among a large segment of traders (especially beginners). It allows you to improve the quality of your trades without changing their fundamental character or forcing you to hold positions open for extended periods.
+
+The analysis of the current trading situation is carried out comprehensively. It is based on current and historical price data for a given trading instrument, combined with relevant sectoral news and articles gathered from public sources. After collecting all this data, it is synchronized, systematized, and then sent to a neural network for analysis.
+
+The final output always consists of graphical and textual parts that complement each other. In the graphical part, the AI draws the most probable future scenarios and additional graphical elements that can help in understanding the current situation, such as limiting risks or increasing your chances of successful profit within the scope of this specific analysis.
+
+--------------------------------------------------
+Publication Schedule of Sectoral Forecasts
+--------------------------------------------------
+
+To ensure maximum analytical efficiency, primary forecasts are published during key market trading sessions when volume and liquidity reach their peak. All publication times are standardized to ::: UTC+0 :::. Channels covering traditional financial markets (Forex, Commodities, Stocks) operate exclusively from Monday to Friday during active exchange hours, whereas the Crypto channel operates 7 days a week.
+
+Sector - Publication Days - Posting Time (UTC+0) - Session & Market Alignment
+Forex - Monday – Friday - 07:30 UTC+0 - European / London Session Opening (Peak Currency Volatility)
+Commodities - Monday – Friday - 11:00 UTC+0 - European Mid-Day & Pre-US Commodity Session (GOLD & OIL)
+Stocks - Monday – Friday - 14:30 UTC+0 - US Main Stock Market Session (NYSE / NASDAQ Opening Peak)
+Crypto - Monday – Sunday (7 Days) - 18:00 UTC+0 (Mon–Fri) / 16:00 UTC+0 (Sat–Sun) - US & Global Afternoon Crypto Liquidity Peak (Mon-Fri), Weekend Global Crypto Peak Trading Hours (Sat-Sun)
+
+--------------------------------------------------
+Analysis Methodology and Specifics
+--------------------------------------------------
+
+The core concept relies on analyzing historical data with a slight delay of a few bars, alongside sectoral news and articles, to improve the forecast based on comprehensive data. It is crucial to remember that the history is intentionally taken with a delay of a few bars. This means the last few bars are deliberately excluded from the analysis so that an initial verification of the AI forecast can be performed against real price data. This increases the reliability of the analysis and allows you to discard incorrect forecasts at an early stage before executing a trade.
+
+> Important Note on Time:
+For displaying time on the chart scales, the universal ::: UTC+0 ::: time standard is used. Please be careful when calculating time and always recalculate it to your local time zone if necessary, especially if you are using this data to refine your trading execution.
+
+--------------------------------------------------
+Understanding the Analysis Zones
+--------------------------------------------------
+
+On the analysis screenshot, you will see three distinct zones:
+
+Zone - Description
+1. Verification Zone - Designed to verify the beginning of the forecast against actual price action. Lasts exactly from the ::: HISTORY ::: point to the ::: NOW ::: point. The post is published precisely at the ::: NOW ::: point.
+2. Preparation / Re-verification Zone - If price action up to the ::: NOW ::: point (Zone 1) aligns with the forecast, you are in this zone and can proceed with re-verification and trade preparation. No trader can react instantly to a post and open a position; this zone is created primarily for that reason. The distance from ::: NOW ::: to the ::: TRADE ::: point will be at least a few minutes. This allows you to: first, quickly grasp the essence of the current analysis; second, verify Zone 1; and third, re-verify and confirm the forecast while preparing for the future trade (e.g., setting a limit order, or preparing optimal stop-loss and take-profit levels for a market order).
+3. Trading Zone - If you decide to open a position at the ::: TRADE ::: point, this zone will help you estimate the approximate time distance until the target is reached or the risk zone is intersected, or it will help you decide to close your position slightly earlier based on the development of the current situation.
+
+--------------------------------------------------
+Risk and Target Zones
+--------------------------------------------------
+
+In most cases, the AI will provide you with specific price levels for targets and risks. If they are present in the forecast, you can set your stop-loss or take-profit orders within these price zones when opening a position at the ::: TRADE ::: point, provided you agree with the AI assessment of the situation or simply trust its analysis.
+
+--------------------------------------------------
+Additional Graphical Elements
+--------------------------------------------------
+
+While the prediction zone is the most critical, the infographics preceding it will allow you to additionally see the reasoning behind the current forecast. This area displays a certain number of recent historical bars, as well as important objects such as support/resistance levels, chart patterns, news event markers, or other graphical objects relevant to the current forecast. These objects are displayed only if the AI has determined their influence to be significant in formulating the current prediction.
+
+--------------------------------------------------
+Concept of the "Useful Tips for Novice" Channel (MQL5 Exclusive)
+--------------------------------------------------
+
+This channel utilizes simple, clear, and highly readable infographics that are easily understood by the majority of the audience. They allow for the effective communication of complex ideas in simple language, supplemented by text that forms a unified whole with the presented infographics.
+
+This format is designed to convey simple but important thoughts from post to post, strengthening the mind and logic of a beginner. Together, these short insights form a solid foundation, much like concrete, for building the sturdy walls of your future trading career.
+
+Simple thoughts combine over time into a monolith, allowing you to trade more effectively, lose less, earn more, and risk less. This channel is the perfect complement to the four sectoral channels, simultaneously accelerating your development and trading efficiency by reducing the number of errors you make while trading. All of this combined will help you reach your goals much faster.
 
 
 
@@ -901,4 +1016,45 @@ Where can I find the .SET files for ::: Neon Trade ::: and ::: Neon Shadow :::?
 
 > Response Essence (Main Idea):
 You can find the official .SET configuration files for ::: Neon Trade ::: and ::: Neon Shadow ::: in our Telegram community at https://t.me/AlgoWealthXcom/6243 and in our blog on MQL5 at https://www.mql5.com/en/blogs/post/758833. Note that for ::: Neon Shadow :::, these settings are also suitable, but only when using the bonus ::: DYNAMIC ::: mode.
+
+----------------------------------
+
+> Question 24:
+Where can I find the AI Market Analysis forecasts and guides?
+
+> Response Essence (Main Idea):
+You can access our AI market analysis forecasts in two formats: in our Telegram community topic at https://t.me/AlgoWealthXcom/6600/6612 (where all 4 market sectors are published in one topic) and on MQL5 across 5 dedicated channels (AI Stocks Analyse: https://www.mql5.com/en/channels/aistocksanalyse, AI Crypto Analyse: https://www.mql5.com/en/channels/aicryptoanalyse, AI Forex Analyse: https://www.mql5.com/en/channels/aiforexanalyse, AI Commodities Analyse: https://www.mql5.com/en/channels/aicommoditiesanalyse, and AI Useful Tips For Novice: https://www.mql5.com/en/channels/aiusefultipsfornovice). You can also read the comprehensive guides on Telegram (https://t.me/AlgoWealthXcom/6600/6612) and MQL5 (https://www.mql5.com/en/blogs/post/761398).
+
+----------------------------------
+
+> Question 25:
+What is the difference between the Telegram community format and the MQL5 channels for AI forecasts?
+
+> Response Essence (Main Idea):
+On ::: mql5.com :::, the forecasts are divided into 5 separate channels (4 sectoral channels plus 1 educational channel for beginners). In our ::: Telegram ::: community, all 4 sectoral forecasts (Stocks, Crypto, Forex, Commodities) are published into a single dedicated topic inside our supergroup in a unified stream. The core analysis methodology, AI models, publication schedule, and time zones are identical in both formats.
+
+----------------------------------
+
+> Question 26:
+How do the 3 analysis zones work in the AI forecast charts?
+
+> Response Essence (Main Idea):
+Zone 1 (Verification Zone) lasts from ::: HISTORY ::: to ::: NOW ::: and allows you to verify the AI prediction against actual price movement before entry. Zone 2 (Preparation Zone) lasts from ::: NOW ::: to ::: TRADE ::: (a few minutes) allowing you to review the analysis and prepare limit orders or SL/TP. Zone 3 (Trading Zone) starts at the ::: TRADE ::: point and guides position holding until the target or risk level is reached.
+
+----------------------------------
+
+> Question 27:
+What time zone is used on the AI analysis chart scales?
+
+> Response Essence (Main Idea):
+All chart time scales and publication schedules use the universal ::: UTC+0 ::: time standard. Be sure to convert these times to your local time zone when aligning forecasts with your trading terminal.
+
+----------------------------------
+
+> Question 28:
+What is the publication schedule for the AI sectoral forecasts?
+
+> Response Essence (Main Idea):
+Forex forecasts are published Monday-Friday at 07:30 UTC+0. Commodities (Gold, Oil) are published Monday-Friday at 11:00 UTC+0. Stocks (US Equities) are published Monday-Friday at 14:30 UTC+0. Crypto operates 7 days a week: 18:00 UTC+0 on weekdays (Mon-Fri) and 16:00 UTC+0 on weekends (Sat-Sun).
+
 

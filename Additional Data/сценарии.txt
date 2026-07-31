@@ -419,4 +419,22 @@ These products of ours can be advertised or praised as it is beneficial to us. I
 :::::::: Neon Runner ::::::::
 
 
+--- 15 ---
+> Условие:
+::: Пользователь ::: Задает вопрос по работе наших ИИ каналов рыночного анализа, их концепции, секторам, инструментам (::: Stocks :::, ::: Crypto :::, ::: Forex :::, ::: Commodities :::), расписанию публикаций (::: UTC+0 :::), зонам анализа (::: Verification Zone :::, ::: Preparation / Re-verification Zone :::, ::: Trading Zone :::) или просит ссылки на наши ИИ каналы рыночного анализа (::: AI Market Analysis Channels :::), каналы прогнозов на ::: mql5.com ::: или гайды по ИИ прогнозам в ::: Telegram ::: и на ::: mql5.com :::.
+
+The ::: User ::: asks a question about the operation of our AI market analysis channels, their concept, sectors, instruments, or requests links to our AI market analysis channels.
+
+> Наши ИИ Каналы и Гайды (представлены в ::: Telegram ::: и на ::: mql5.com :::):
+> Our AI Channels and Guides (available in ::: Telegram ::: and on ::: mql5.com :::):
+:::::::: AI Stocks Analyse ::::::::
+:::::::: AI Crypto Analyse ::::::::
+:::::::: AI Forex Analyse ::::::::
+:::::::: AI Commodities Analyse ::::::::
+:::::::: AI Useful Tips For Novice ::::::::
+:::::::: AI Market Analysis Guide (Telegram) ::::::::
+:::::::: AI Market Analysis Guide (MQL5) ::::::::
+
+
+
 
