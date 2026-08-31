@@ -640,6 +640,6 @@ The following recurring issues MUST be eliminated from all future posts:
 --- FORMATTING RECOMMENDATIONS (BASED ON AUDIT) ---
 
 1. Use vertical lists (line-by-line) when enumerating brokers, features, steps, or any set of items. This breaks the visual monotony of pure paragraph text and makes the post easier to scan.
-2. Keep paragraphs to 2-3 sentences maximum + posiible list or enumeration. If a paragraph grows beyond that, split it or remove unnecessary content.
+2. Keep paragraphs to 2-5 sentences maximum. If a paragraph grows beyond that, split it or remove unnecessary content.
 3. Before finalizing any post, verify every factual claim against the product documentation provided in this file. If a claim cannot be confirmed, remove it.
 
